@@ -1,0 +1,9 @@
+next programming assignment 04 due on  coming Wednesday 
+
+create classes with minimum required for complex numbers, rational numbers, vectors, etc. Later, you have to create a template class Matrix33 to store matrices of order 3x3 for ints, floats, doubles, complex numbers, vectors, etc. Lastly, demonstrate the usage of several matrix objects of above mentioned types.
+
+inherit null33 and identity33 matrices or template matrices from Matrix33, possibly override the matrix33 functions.
+
+create a mexception33 class inheriting exception class of cpp to signal data errors to the caller code. the mexception33 class has additional int type data member code along with the string message stored in its base class. the constructor of mexception33 class accepts two parameters. what member function must be overriden.
+
+test all the classes by writing suitable code in the main logic.

@@ -1,0 +1,7 @@
+Read and Display File
+
+Create a text file data.txt with a few lines.
+
+Write a program that reads the file and displays the content line by line.
+
+Count Words in a File

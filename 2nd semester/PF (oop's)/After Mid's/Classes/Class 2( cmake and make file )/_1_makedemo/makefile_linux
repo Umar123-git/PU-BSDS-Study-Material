@@ -1,0 +1,19 @@
+CMD=g++
+CMDFLAGS=-c -Wall
+
+all: demo.exe
+
+demo.exe: demo.o sorting.o searching.o
+	$(CMD) demo.o searching.o sorting.o -o demo.exe
+
+demo.o: demo.cc
+	$(CMD) $(CMDFLAGS) demo.cc -o demo.o
+
+sorting.o: sorting.cc
+	$(CMD) $(CMDFLAGS) sorting.cc -o sorting.o
+
+searching.o: searching.cc
+	$(CMD) $(CMDFLAGS) searching.cc -o searching.o
+
+clean:
+	rm -rf *o hello

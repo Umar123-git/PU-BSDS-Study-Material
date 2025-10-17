@@ -1,0 +1,69 @@
+IEEE Citation Quick Guide (Text Format)
+
+==================================
+IN-TEXT CITATION FORMAT:
+==================================
+Use bracketed numbers in the order of appearance in the text:
+Example: "...as shown in [1], [2]."
+
+Use "et al." for three or more authors:
+Example: Smith et al. [3]
+
+==================================
+REFERENCE FORMATS AND EXAMPLES:
+==================================
+
+A. Book
+--------
+In-text citation:
+[1]
+
+Reference format:
+[1] A. A. Author, *Title of Book*, xth ed. City of Publisher, State, Country: Publisher, Year, pp. xxx–xxx.
+
+Example:
+[1] B. Klaus and P. Horn, *Robot Vision*. Cambridge, MA, USA: MIT Press, 1986.
+
+B. Journal Article (Periodical)
+-------------------------------
+In-text citation:
+[2]
+
+Reference format:
+[2] A. A. Author, “Title of article,” *Abbreviated Title of Journal*, vol. x, no. x, pp. xxx–xxx, Abbrev. Month, Year, doi: xxx.
+
+Example:
+[2] M. M. Chiampi and L. L. Zilberti, “Induction of electric field in human bodies moving near MRI,” *IEEE Trans. Biomed. Eng.*, vol. 58, pp. 2787–2793, Oct. 2011, doi: 10.1109/TBME.2011.2158315.
+
+C. Dataset
+----------
+In-text citation:
+[3]
+
+Reference format:
+[3] Author(s), Date. “Title of Dataset,” distributed by Publisher/Distributor, [Online]. Available: URL or doi:xxx
+
+Example:
+[3] S. Ansolabehere, M. Palmer, and A. Lee, Jan. 20, 2014, “Precinct-Level Election Data. V1,” distributed by Harvard Election Data Archive, [Online]. Available: http://hdl.handle.net/1902.1/21919
+
+D. Software
+-----------
+In-text citation:
+[4]
+
+Reference format:
+[4] A. A. Author. *Title of Software*. Publisher or Repository. Version. Accessed: Date. [Online]. Available: URL
+
+Example:
+[4] D. W. Arning et al. *Mixed Mode–Mixed Level Circuit Simulator*. Ngspice. Accessed: Jan. 11, 2019. [Online]. Available: http://ngspice.sourceforge.net
+
+E. YouTube Video
+----------------
+In-text citation:
+[5]
+
+Reference format:
+[5] Name of Creator, Location (if any). *Title of Video*. (Date). Accessed: Date. [Online Video]. Available: URL
+
+Example:
+[5] Doane Academy, Burlington, NJ, USA. *Second Grade Bossy R*. (Feb. 28, 2013). Accessed: Jun. 3, 2018. [Online Video]. Available: https://www.youtube.com/watch?v=PUKHo1Y-BcM

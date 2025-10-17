@@ -1,0 +1,55 @@
+Formatting using the ios members:
+
+The stream has the format flags that control the way of formatting it means Using this setf function, we can set the flags, which allow us to display a value in a particular format. The ios class declares a bitmask enumeration called fmtflags in which the values(showbase, showpoint, oct, hex etc) are defined. These values are used to set or clear the format flags.
+
+Few standard ios class functions are:
+
+width(): The width method is used to set the required field width. The output will be displayed in the given width
+precision(): The precision method is used to set the number of the decimal point to a float value
+fill(): The fill method is used to set a character to fill in the blank space of a field
+setf(): The setf method is used to set various flags for formatting output
+unsetf(): The unsetf method is used To remove the flag setting
+
+===========================================
+
+Formatting using Manipulators
+
+The second way you can alter the format parameters of a stream is through the use of special functions called manipulators that can be included in an I/O expression.
+
+The standard manipulators are shown below:
+
+boolalpha: The boolalpha manipulator of stream manipulators in C++ is used to turn on bool alpha flag
+dec: The dec manipulator of stream manipulators in C++ is used to turn on the dec flag
+endl: The endl manipulator of stream manipulators in C++ is used to Output a newline character.
+and: The and manipulator of stream manipulators in C++ is used to Flush the stream
+ends: The ends manipulator of stream manipulators in C++ is used to Output a null
+fixed: The fixed manipulator of stream manipulators in C++ is used to Turns on the fixed flag
+flush: The flush manipulator of stream manipulators in C++ is used to Flush a stream
+hex: The hex manipulator of stream manipulators in C++ is used to Turns on hex flag
+internal: The internal manipulator of stream manipulators in C++ is used to Turns on internal flag
+left: The left manipulator of stream manipulators in C++ is used to Turns on the left flag
+noboolalpha: The noboolalpha manipulator of stream manipulators in C++ is used to Turns off bool alpha flag
+noshowbase: The noshowbase manipulator of stream manipulators in C++ is used to Turns off showcase flag
+noshowpoint: The noshowpoint manipulator of stream manipulators in C++ is used to Turns off show point flag
+noshowpos: The noshowpos manipulator of stream manipulators in C++ is used to Turns off showpos flag
+noskipws: The noskipws manipulator of stream manipulators in C++ is used to Turns off skipws flag
+nounitbuf: The nounitbuf manipulator of stream manipulators in C++ is used to Turns off the unit buff flag
+nouppercase: The nouppercase manipulator of stream manipulators in C++ is used to Turns off the uppercase flag
+oct: The oct manipulator of stream manipulators in C++ is used to Turns on oct flag
+resetiosflags(fmtflags f): The resetiosflags manipulator of stream manipulators in C++ is used to Turns off the flag specified in f
+right: The right manipulator of stream manipulators in C++ is used to Turns on the right flag
+scientific: The scientific manipulator of stream manipulators in C++ is used to Turns on scientific flag
+setbase(int base): The setbase manipulator of stream manipulators in C++ is used to Set the number base to base
+setfill(int ch): The setfill manipulator of stream manipulators in C++ is used to Set the fill character to ch
+setiosflags(fmtflags f): The setiosflags manipulator of stream manipulators in C++ is used to Turns on the flag specified in f
+setprecision(int p): The setprecision manipulator of stream manipulators in C++ is used to Set the number of digits of precision
+setw(int w): The setw manipulator of stream manipulators in C++ is used to Set the field width to w
+showbase: The showbase manipulator of stream manipulators in C++ is used to Turns on showbase flag
+showpoint: The showpoint manipulator of stream manipulators in C++ is used to Turns on show point flag
+showpos: The showpos manipulator of stream manipulators in C++ is used to Turns on showpos flag
+skipws: The skipws manipulator of stream manipulators in C++ is used to Turns on skipws flag
+unitbuf: The unitbuf manipulator of stream manipulators in C++ is used to turn on unitbuf flag
+uppercase: The uppercase manipulator of stream manipulators in C++ is used to turn on the uppercase flag
+ws: The ws manipulator of stream manipulators in C++ is used to skip leading white space
+
+To access manipulators that take parameters (such as setw( )), you must include “iomanip” header file in your program.

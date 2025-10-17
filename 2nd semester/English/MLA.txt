@@ -1,0 +1,270 @@
+Here's a **summary of the MLA FORMAT guide** you provided, with a **focus on in-text citation and Works Cited formatting** for the four types of sources: **book, magazine article, journal article, and web source**, along with general usage concepts.
+
+---
+
+## 🔹 **MLA Style Overview**
+
+**MLA (Modern Language Association) format** is used mainly in the **humanities**. It provides a consistent structure for writing, especially for:
+
+* Document formatting
+* In-text (parenthetical) citations
+* A final Works Cited page (listing all sources)
+
+---
+
+## 🔹 **General MLA Guidelines**
+
+* Use **12 pt. Times New Roman** font
+* **Double-space** the entire document
+* **1-inch margins** on all sides
+* Indent paragraphs by **0.5 inches**
+* **Page numbers** in top-right header with your **last name**
+* Title is **centered** — no bold, underlining, or italics
+* Use **italics** (not underlining) for longer works like books or films
+
+---
+
+## 🔹 **In-Text Citation: Core Concepts**
+
+* MLA uses **author-page style**:
+
+  > (Author’s Last Name Page Number)
+  > e.g., (Smith 45)
+
+* If no author:
+
+  > Use a **shortened title** in quotation marks: ("Article Title" 6)
+
+* In-text citation should match the first word(s) in the corresponding Works Cited entry.
+
+---
+
+## 🔹 **Works Cited Page: Core Concepts**
+
+* Title the page **"Works Cited"**
+* Entries are **alphabetized by author's last name**
+* Use **hanging indentation** (first line flush left, next lines indented)
+
+---
+
+## 🔹 **A. Book**
+
+### In-Text:
+
+> (Author Last Name Page Number)
+> Example: (Orwell 78)
+
+### Works Cited:
+
+**Format:**
+Author Last Name, First Name. *Title of Book*. Publisher, Year.
+**Example:**
+Orwell, George. *1984*. Penguin Books, 1949.
+
+---
+
+## 🔹 **B. Magazine Article**
+
+### In-Text:
+
+> (Author Last Name Page Number)
+> Example: (Buchman 143)
+
+### Works Cited:
+
+**Format:**
+Author(s). "Title of Article." *Title of Magazine*, Day Month Year, pp. Page Range.
+**Example:**
+Buchman, Dana. "A Special Education." *Good Housekeeping*, Mar. 2006, pp. 143–148.
+
+---
+
+## 🔹 **C. Journal Article**
+
+### In-Text:
+
+> (Author Last Name Page Number)
+> Example: (Duvall 127)
+
+### Works Cited:
+
+**Format (Print):**
+Author. "Title of Article." *Title of Journal*, vol. #, no. #, Year, pp. Page Range.
+**Example:**
+Duvall, John N. "The (Super)Marketplace of Images." *Arizona Quarterly*, vol. 50, no. 3, 1994, pp. 127–153.
+
+---
+
+## 🔹 **D. Web Source**
+
+### In-Text:
+
+> (Author Last Name) or ("Article Title")
+> Example: (Garcia)
+
+### Works Cited:
+
+**Format:**
+Author Last Name, First Name. "Title of Webpage." *Title of Website*, Publisher, Date, URL. Accessed Day Month Year.
+**Example:**
+Garcia, Elizabeth. "Herzog: a Life." *Online Film Critics Corner*, The Film School of New Hampshire, 2 May 2002, [www.filmschool.edu/herzog](http://www.filmschool.edu/herzog). Accessed 8 Jan. 2009.
+
+---
+
+## 🔹 **Special Citation Cases**
+
+* **No Author**: Start citation with the title
+* **Multiple Authors**: List up to 2 authors; for 3 or more use **et al.**
+* **Bible & Multivolume Works**: Cite book, chapter, and verse (e.g., Ezek. 1.5–10)
+* **Indirect Sources**: Use **qtd. in** for quoting someone cited within another source
+
+---
+
+## ✅ **Quick Usage Tips**
+
+* Always match **in-text citation** with the first element in the **Works Cited**.
+* For **online sources**, include **access dates** and use **“Web”** as the medium (older rule, still sometimes used).
+* **Use italics** for titles of books, websites, journals, and films.
+* **Use quotation marks** for articles, webpages, and short works.
+
+---
+
+
+
+
+
+
+Here’s a **detailed explanation with examples** of the **Special Citation Cases** in **MLA format**, including how to write both **in-text citations** and **Works Cited entries** for each situation:
+
+---
+
+## 🔹 1. **No Author**
+
+### 🔸 Explanation:
+
+If a source has **no listed author**, begin the **in-text citation** and **Works Cited entry** with the **title of the work**.
+Use **quotation marks** for shorter works (e.g., articles or webpages) and **italics** for longer works (e.g., books).
+
+---
+
+### ✅ **Example (Web Article)**
+
+#### 🔹 In-text Citation:
+
+> ("Impact of Global Warming" 6)
+
+#### 🔹 Works Cited:
+
+> "Impact of Global Warming in North America." *Global Warming: Early Signs*, 1999, [www.climatehotmap.org/](http://www.climatehotmap.org/). Accessed 23 Mar. 2009.
+
+---
+
+## 🔹 2. **Multiple Authors**
+
+### 🔸 Explanation:
+
+* For **2 authors**: List both names in both **in-text** and **Works Cited**.
+* For **3 or more authors**: List the **first author only**, followed by **et al.** (Latin for “and others”).
+
+---
+
+### ✅ **Example (2 Authors, Print Book)**
+
+#### 🔹 In-text Citation:
+
+> (Gillespie and Lerner 42)
+
+#### 🔹 Works Cited:
+
+> Gillespie, Paula, and Neal Lerner. *The Allyn and Bacon Guide to Peer Tutoring*. Allyn, 2000.
+
+---
+
+### ✅ **Example (3+ Authors, Journal Article)**
+
+#### 🔹 In-text Citation:
+
+> (Smith et al. 76)
+
+#### 🔹 Works Cited:
+
+> Smith, John, Jane Doe, Peter Lee, and Rachel Kim. "A Study on Gun Control." *American Law Review*, vol. 12, no. 2, 2020, pp. 72–88.
+
+✳️ Or shorten to:
+
+> Smith, John, et al. "A Study on Gun Control." *American Law Review*, vol. 12, no. 2, 2020, pp. 72–88.
+
+---
+
+## 🔹 3. **Bible & Multivolume Works**
+
+### 🔸 Explanation:
+
+When citing the **Bible**, include the **version**, the **book**, **chapter**, and **verse** — **not page numbers**.
+
+For **multivolume works**, indicate the **volume number** and **page(s)**.
+
+---
+
+### ✅ **Example (Bible)**
+
+#### 🔹 In-text Citation:
+
+> (New Jerusalem Bible, Ezek. 1.5–10)
+
+#### 🔹 Works Cited:
+
+> *The New Jerusalem Bible*. Doubleday, 1985.
+
+---
+
+### ✅ **Example (Multivolume Work)**
+
+#### 🔹 In-text Citation:
+
+> (Quintilian 1:14–17)
+> (Here, "1" is the volume number, and "14–17" are the page numbers.)
+
+#### 🔹 Works Cited:
+
+> Quintilian. *Institutio Oratoria*. Translated by H.E. Butler, vol. 1, Harvard UP, 1920.
+
+---
+
+## 🔹 4. **Indirect Sources**
+
+### 🔸 Explanation:
+
+If you are quoting a source that is **quoted in another source**, you must credit the **original speaker** and use **"qtd. in"** (quoted in) to cite the actual source you used.
+
+---
+
+### ✅ **Example**
+
+Let's say you are quoting **Diane Ravitch**, but you found the quote **in an article by Weisman**.
+
+#### 🔹 In-text Citation:
+
+> (qtd. in Weisman 259)
+
+#### 🔹 Works Cited:
+
+> Weisman, Jonathan. "Schools Under Pressure." *The New York Times*, 3 Apr. 2007, p. 259.
+
+---
+
+## ✅ Summary Table
+
+| Case             | In-Text Citation Example         | Works Cited Start                     |
+| ---------------- | -------------------------------- | ------------------------------------- |
+| No Author        | ("Article Title" Page)           | "Article Title." Title of Website...  |
+| Two Authors      | (Smith and Jones Page)           | Smith, John, and Jane Jones...        |
+| 3+ Authors       | (Smith et al. Page)              | Smith, John, et al.                   |
+| Bible            | (New Jerusalem Bible, John 3.16) | *The New Jerusalem Bible*.            |
+| Multivolume Work | (Author vol#\:page#)             | Author. *Title*. vol. #...            |
+| Indirect Source  | (qtd. in Author Page)            | Author (the source you actually read) |
+
+---
+
+Let me know if you’d like me to format these in a ready-to-print cheat sheet!
+

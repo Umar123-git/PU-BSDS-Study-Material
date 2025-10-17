@@ -1,0 +1,209 @@
+Fill in the Blank
+
+Backup: A duplicate copy of data or other computer content for use in the event that the original version is destroyed.
+
+Android: A Linux-based operating system designed for mobile devices and developed by the Open Handset Alliance, which is a group of companies led by Google.
+
+Virtual Memory: A memory-management technique that uses hard drive space as additional RAM.
+
+Device Driver: A program that enables an operating system to communicate with a specific hardware device.
+
+Utility Software: A type of software that performs a specific task, usually related to managing or maintaining a computer system.
+
+Multitasking: The capability of an operating system to run more than one program at one time.
+
+Kernel: The essential portion, or core, of an operating system.
+
+Operating System (OS): The main component of system software that enables a computer to operate, manage its activities and the resources under its control, run application programs, and interface with the user.
+
+Windows: The primary personal computer operating system developed by Microsoft Corporation.
+
+Spooling: The process of placing items in a buffer so the appropriate device (such as a printer) can retrieve them when needed.
+
+
+1. **Database**: A collection of related data that is stored in a manner enabling information to be retrieved as needed.
+2. **Record**: A collection of related fields in a database; also called a row.
+3. **Workbook**: A collection of worksheets saved in a single spreadsheet file.
+4. **End-User License Agreement (EULA)**: An agreement, either included in a software package or displayed on the screen when the software is installed or launched, that specifies the conditions under which the program can be used.
+5. **Formula**: An entry in a worksheet cell that performs computations on worksheet data and displays the results.
+6. **Field**: A single category of data to be stored in a database, such as a person’s name or phone number; also called a column.
+7. **Label**: A text-based entry in a worksheet cell that identifies data on the worksheet.
+8. **Shareware**: Copyrighted software that is distributed on the honor system; consumers should either pay for it or uninstall it after the trial period.
+9. **Public Domain Software**: Software that is not copyrighted and may be used without restriction.
+10. **Cell**: The location at the intersection of a row and column on a worksheet into which data can be typed.
+
+
+
+1. **Network**: A collection of computers and other hardware devices that are connected together to share hardware, software, and data, as well as to communicate electronically with one another.
+2. **Repeater**: A device used for receiving or sending radio signals; often used to increase the range of a network.
+3. **Switch**: A device used to connect multiple devices on a single (typically wired) network; forwards packets to only the intended recipient.
+4. **Bluetooth**: A networking standard for very short-range wireless connections; the devices are automatically connected once they get within the allowable range.
+5. **Mesh Network**: A network in which there are multiple connections between the devices on the network so that messages can take any of several possible paths.
+6. **WiMAX**: A wireless networking standard that is faster and has a greater range than Wi-Fi.
+7. **TCP/IP**: A networking protocol that uses packet switching to facilitate the transmission of messages; the protocol used with the Internet.
+8. **GPS**: A system that uses satellites and a receiver to determine the exact geographic location of the receiver.
+9. **Digital Transmission**: A type of data transmission where the data is represented by 0s and 1s.
+10. **Ethernet**: A widely used wired LAN networking standard.
+
+
+
+2. **Distance Learning**: A learning environment in which the student is physically located away from the instructor and other students; commonly, instruction and communications take place via the Web.
+
+3. **Broadband**: A type of Internet connection in which the computer or other device is connected to the Internet continually.
+
+4. **Cookie**: A small file stored on a user’s hard drive by a Web server; commonly used to identify personal preferences and settings for that user.
+
+5. **Search Engine**: A software program used by a search site to retrieve matching Web pages from a search database.
+
+6. **Dial-up**: A type of Internet connection in which the computer or other device must dial up and connect to a service provider’s computer via telephone lines before being connected to the Internet.
+
+7. **Podcast**: A recorded audio or video file that can be played or downloaded via the Web.
+
+8. **Keyword**: A word typed in a search box on a search site to locate information on the Internet.
+
+9. **Social Media**: The collection of social networking sites and other communications channels used to transmit or share information with a broad audience.
+
+10. **World Wide Web (WWW)**: The collection of Web pages available through the Internet.
+
+11. **Internet**: The largest and most well-known computer network, linking millions of computers all over the world.
+
+
+
+
+
+1. **c. data warehouse**: A comprehensive collection of data about a company and its customers.
+2. **g. robot**: A device, controlled by a human operator or a computer, that can move and react to sensory input.
+3. **b. computer-aided design (CAD)**: A general term applied to the use of computer technology to automate design functions.
+4. **f. neural network**: An expert system in which the human brain’s pattern-recognition process is emulated by the computer system.
+5. **d. geographic information system (GIS)**: An information system that combines geographic information with other types of data (such as information about customers, sales, and so forth) in order to provide a better understanding of the relationships among the data.
+6. **i. systems analyst**: A person who studies systems in an organization in order to determine what work needs to be done and how this work may best be achieved.
+7. **j. transaction processing system (TPS)**: A type of information system that processes and records data created by an organization’s business transactions.
+8. **e. management information system (MIS)**: A type of information system that provides decision makers with preselected information that can be used to make middle-management decisions.
+9. **h. system development life cycle (SDLC)**: The process consisting of the six phases of system development: preliminary investigation, system analysis, system design, system acquisition, system implementation, and system maintenance.
+10. **a. business analytics (BA)**: The process of analyzing data to evaluate a company’s operations.
+
+
+
+
+
+1. **i. source code**: A computer program before it is compiled.
+2. **b. compiler**: A language translator that converts an entire program into machine language before executing it.
+3. **g. object-oriented programming (OOP)**: An approach to program design in which a program consists of objects that contain data (attributes) and processes (methods) to be used with those objects.
+4. **h. software development kit (SDK)**: A programming package designed for a particular platform that enables programmers to develop applications for that platform more quickly and easily.
+5. **e. logic error**: A programming error that occurs when running a program produces incorrect results.
+6. **j. syntax error**: A programming error that occurs when the programmer has not followed the rules of the programming language.
+7. **d. flowchart**: A program design tool that graphically shows step-by-step how a computer program will process data.
+8. **f. object code**: The machine language version of a computer program generated when the program’s source code is compiled.
+9. **c. debugging**: The process of ensuring a program is free of errors.
+10. **a. coding**: The process of writing the programming language statements to create a computer program.
+
+
+
+
+
+
+Tick Cross:
+
+T - Windows 8 is an example of an operating system.
+
+F - Most operating systems today use a graphical user interface (GUI) rather than a command line interface.
+
+T - Mobile devices, such as media tablets and mobile phones, typically require an operating system.
+
+F - File Explorer is not an operating system; it is a file management tool in Windows.
+
+F - Windows Phone was designed specifically for mobile phones, not for a variety of computer types.
+
+
+
+
+1. **T** - Microsoft Office is one example of a software suite.
+2. **T** - Changing the font size in a document is an example of a formatting operation.
+3. **F** - In a word processing document, the Enter key is not always pressed at the end of each screen line to move down to the next line; word processors automatically wrap text to the next line.
+4. **F** - The formula =A2+B2 located in cell C2 would add the two cells to the left of cell C2, not multiply them.
+5. **T** - Typically, a single software program can be installed on both a computer and a mobile device.
+6. With a(n) **open-source** program, the source code for the program is made available to the public and so can be modified by others.
+7. The blinking vertical line displayed on the screen that indicates the current location in a document, such as where the next change will be made to the document in a word processing program, is called the **cursor**.
+8. A named formula (such as @SUM) in a spreadsheet program is called a(n) **function**.
+9. In a relational database, the database object that contains the actual data is the **table**.
+
+
+
+
+1. **F** - GPS systems are not used only by the government; they are widely used by civilians for navigation and location services.
+  
+2. **T** - With serial transmissions, each bit of data is sent individually.
+  
+3. **F** - The Internet is not an example of a LAN (Local Area Network); it is a WAN (Wide Area Network).
+  
+4. **T** - The type of cable used inside most homes for telephone service is twisted-pair wire.
+  
+5. **F** - A router is not a type of modem; they are different devices with different functions.
+  
+6. With a(n) **bus** network topology, all devices are connected in a line to a central cable.
+  
+7. A(n) **dual-mode** phone can be used with more than one communications network, such as when used with both a cellular and Wi-Fi network.
+  
+8. A small network designed to connect the personal devices for an individual (such as via Bluetooth) is called a(n) **PAN** (Personal Area Network).
+  
+9. A(n) **VPN** (Virtual Private Network) is a network that transfers private information securely over the Internet or other public network.
+
+
+
+
+1. **F** - When the Internet was first developed, it was not called Mosaic. Mosaic was one of the first web browsers.
+  
+2. **F** - On the Internet, an access provider and a content provider are not the same thing. An access provider offers Internet access, while a content provider offers information or services online.
+  
+3. **T** - With a direct connection, you need only open your browser to start your Internet session.
+  
+4. **T** - A Wi-Fi hotspot is used to provide Internet access to individuals via a wireless connection.
+  
+5. **F** - A Webinar is not a website designed to allow individuals to easily create and publish blogs. A Webinar is an online seminar or presentation.
+  
+6. **DSL** is a type of always-on broadband Internet service that transmits data over standard telephone lines but does not tie up your phone line.
+  
+7. With a(n) **keyword** search, keywords are typed into the search box; with a(n) **category** search, users select categories to find matching Web pages.
+  
+8. A(n) **social networking site** is a website (such as Facebook) designed to enable a community of individuals to communicate and exchange information.
+
+9. **Online auction**: People bid on products over the Internet, and the highest bidder purchases the item.
+
+
+
+
+
+1. **T** - Executive managers tend to make highly unstructured decisions.
+2. **F** - A decision support system would most likely be used by a nonmanagement worker.
+3. **F** - An expert system is not an example of an office system; it is a type of artificial intelligence system.
+4. **T** - Assigning business tasks to an external company is referred to as outsourcing.
+5. **F** - Users are involved in the system development life cycle regardless of the approach being used.
+6. The software program used in an expert system in conjunction with the knowledge base to reach decisions is called the **inference engine**.
+7. A(n) **systems analyst** is the computer professional who is most involved in the system development process.
+8. Benefits that are easy to quantify in dollars are called **tangible** benefits.
+9. A(n) **prototype** is a model of a system that is built during systems development.
+
+
+
+
+
+
+1. **F** - A systems analyst is not an individual who writes the code for a computer program; that's typically the role of a programmer or software developer.
+  
+2. **T** - The terms class and inheritance are indeed associated with the object-oriented programming approach.
+  
+3. **T** - With a do until structure, the program statements in the loop are always executed at least once.
+  
+4. **F** - BASIC is not an example of an object-oriented programming language; it is a procedural programming language.
+  
+5. **F** - A wireframe is not another name for a flowchart; a wireframe is a visual guide that represents the skeletal framework of a website or application.
+
+6. A(n) **variable** (called an attribute in an OOP) in a computer program holds the current value of a data item in that program.
+  
+7. A(n) **interpreter** converts the source code of an application program into executable object code (machine language) one line at a time.
+  
+8. Using an incorrect formula is an example of a(n) **logic** error.
+  
+9. **Agile** software development is an approach that uses short development cycles in order to produce small functional pieces of a program on an ongoing basis.
+
+

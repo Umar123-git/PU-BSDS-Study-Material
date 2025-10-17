@@ -1,0 +1,36 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore build and executable files
+*.exe
+*.dll
+*.obj
+*.class
+*.out
+
+# Ignore compressed archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Ignore video and large files
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore VS Code and IDE settings
+.vscode/
+.idea/
+
+# Ignore Git repo folders
+*/.git/

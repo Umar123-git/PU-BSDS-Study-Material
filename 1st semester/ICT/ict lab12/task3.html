@@ -1,0 +1,26 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta charset="utf-8" />  
+<title>JS DOM paragraph style</title>  
+</head>  
+<body>  
+<p id="text">Hello BS DS F24</p>   
+<div>  
+<button id="jsstyle">Style</button>  
+</div>  
+
+<script>
+document.getElementById("jsstyle").addEventListener("click", function() {
+    var paragraph = document.getElementById("text");
+    paragraph.style.fontFamily = "Arial, sans-serif";
+    paragraph.style.fontSize = "20px";
+});
+
+document.getElementById("jsstyle").addEventListener("dblclick", function() {
+    var paragraph = document.getElementById("text");
+    paragraph.style.color = "blue";
+});
+</script>
+</body> 
+</html>

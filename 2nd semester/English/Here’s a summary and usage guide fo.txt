@@ -1,0 +1,143 @@
+Here’s a **summary and usage guide** for **IEEE citation format**, based on your uploaded file. It covers **how to cite in-text** and how to write full **reference entries** for:
+
+* **a. Book**
+* **b. Journal Article (Periodical)**
+* **c. Dataset**
+* **d. Software**
+* **e. YouTube Video**
+
+---
+
+## 🔷 IEEE Style Overview
+
+### 🔸 In-Text Citation:
+
+* Cite sources using **numbers in square brackets** in the **order of appearance**.
+
+  > Example: “...as shown in \[1], \[2], and \[3].”
+
+* Use **et al.** for three or more authors:
+
+  > Example: Smith et al. \[4]
+
+### 🔸 Reference List:
+
+* Title it **"References"**.
+* Number each reference **in order of appearance** (not alphabetically).
+* Use a **hanging indent** format.
+
+---
+
+## 🔷 A. Book
+
+### 🔸 In-Text:
+
+> “…as described in \[1].”
+
+### 🔸 Reference Format:
+
+```
+[Ref#] A. A. Author, *Title of Book*, xth ed. City of Publisher, State, Country: Publisher, Year, pp. xxx–xxx.
+```
+
+### 🔸 Example:
+
+```
+[1] B. Klaus and P. Horn, *Robot Vision*. Cambridge, MA, USA: MIT Press, 1986.
+```
+
+---
+
+## 🔷 B. Journal Article (Periodical)
+
+### 🔸 In-Text:
+
+> “…as noted in \[2].”
+
+### 🔸 Reference Format:
+
+```
+[Ref#] A. A. Author, “Title of article,” *Abbreviated Title of Journal*, vol. x, no. x, pp. xxx–xxx, Abbrev. Month, Year, doi: xxx.
+```
+
+### 🔸 Example:
+
+```
+[2] M. M. Chiampi and L. L. Zilberti, “Induction of electric field in human bodies moving near MRI,” *IEEE Trans. Biomed. Eng.*, vol. 58, pp. 2787–2793, Oct. 2011, doi: 10.1109/TBME.2011.2158315.
+```
+
+---
+
+## 🔷 C. Dataset
+
+### 🔸 In-Text:
+
+> “…using the dataset in \[3].”
+
+### 🔸 Reference Format:
+
+```
+[Ref#] Author(s), Date. “Title of Dataset,” distributed by Publisher/Distributor, [Online]. Available: URL or doi:xxx
+```
+
+### 🔸 Example:
+
+```
+[3] S. Ansolabehere, M. Palmer, and A. Lee, Jan. 20, 2014, “Precinct-Level Election Data. V1,” distributed by Harvard Election Data Archive, [Online]. Available: http://hdl.handle.net/1902.1/21919
+```
+
+---
+
+## 🔷 D. Software
+
+### 🔸 In-Text:
+
+> “…using the simulation tool \[4].”
+
+### 🔸 Reference Format:
+
+```
+[Ref#] A. A. Author. *Title of Software*. Publisher or Repository. Version. Accessed: Date. [Online]. Available: URL
+```
+
+### 🔸 Example:
+
+```
+[4] D. W. Arning et al. *Mixed Mode–Mixed Level Circuit Simulator*. Ngspice. Accessed: Jan. 11, 2019. [Online]. Available: http://ngspice.sourceforge.net
+```
+
+---
+
+## 🔷 E. YouTube Video
+
+### 🔸 In-Text:
+
+> “...as seen in the educational video \[5].”
+
+### 🔸 Reference Format:
+
+```
+[Ref#] Name of Creator, Location (if any). *Title of Video*. (Date). Accessed: Date. [Online Video]. Available: URL
+```
+
+### 🔸 Example:
+
+```
+[5] Doane Academy, Burlington, NJ, USA. *Second Grade Bossy R*. (Feb. 28, 2013). Accessed: Jun. 3, 2018. [Online Video]. Available: https://www.youtube.com/watch?v=PUKHo1Y-BcM
+```
+
+---
+
+## 🔷 Summary Table
+
+| Source Type       | In-Text Citation | Reference Format Key Points                                 |
+| ----------------- | ---------------- | ----------------------------------------------------------- |
+| **Book**          | \[1]             | Author(s), *Title*, Publisher, Year                         |
+| **Journal**       | \[2]             | Author(s), "Article Title," *Journal*, vol., no., pp., date |
+| **Dataset**       | \[3]             | Author(s), Title, Distributor, Date, URL/DOI                |
+| **Software**      | \[4]             | Author(s), Title, Repository, Version, Accessed Date, URL   |
+| **YouTube Video** | \[5]             | Creator, *Video Title*, Date, \[Online Video], URL          |
+
+---
+
+Would you like a downloadable DOCX or PDF cheat sheet for IEEE format as well?

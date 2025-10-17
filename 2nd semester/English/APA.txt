@@ -1,0 +1,141 @@
+Here’s a **detailed summary** and **usage guide** for **APA 7th edition format**, based on your uploaded file, along with citation **formats and examples** for:
+
+* **a. Book**
+* **b. Journal Article**
+* **c. Article from an Online Periodical**
+* **d. YouTube Video**
+
+---
+
+## 🔷 WHAT IS APA STYLE?
+
+APA (American Psychological Association) style is commonly used in **social sciences** and focuses on clarity, structure, and source attribution. It includes:
+
+* In-text citations (brief references in the body)
+* Reference list (detailed citations at the end)
+* Specific paper formatting guidelines
+
+---
+
+## 🔷 GENERAL FORMATTING RULES (APA 7th Edition)
+
+* Font: Times New Roman 12 pt (or other readable fonts)
+* Spacing: Double-spaced
+* Margins: 1 inch on all sides
+* Page numbers: Top-right corner
+* Title page, abstract, main body, and references
+* Use **title case** and **bold** for headings
+
+---
+
+## 🔷 IN-TEXT CITATION (APA)
+
+APA uses two styles:
+
+1. **Narrative**: Author’s name appears in sentence
+   👉 *Smith (2020) found that...*
+
+2. **Parenthetical**: Author and year in parentheses
+   👉 *(Smith, 2020)*
+
+If quoting directly, include page number:
+👉 *(Smith, 2020, p. 23)*
+👉 *Smith (2020) stated, “…” (p. 23).*
+
+---
+
+## 🔷 REFERENCE LIST RULES
+
+* Titled **"References"** (bold, centered)
+* Alphabetical by author's last name
+* Use **hanging indent**
+* Format: Author. (Year). *Title*. Source.
+  Only the first word and proper nouns are capitalized in titles (sentence case).
+
+---
+
+## 🔷 FORMATS & EXAMPLES
+
+---
+
+### ✅ **a. Book**
+
+**In-text citation:**
+*(King, 2019)*
+or
+*King (2019)*
+
+**Reference format:**
+Author, A. A. (Year). *Title of book: Subtitle if any*. Publisher.
+
+**Example:**
+King, S. (2019). *The institute: A novel*. Scribner.
+
+---
+
+### ✅ **b. Journal Article (Print or Online)**
+
+**In-text citation:**
+*(Lee & Zhang, 2020)*
+or
+*Lee and Zhang (2020)*
+
+**Reference format:**
+Author, A. A., & Author, B. B. (Year). Title of article. *Title of Journal, volume number*(issue number), pages. [https://doi.org/xxxxx](https://doi.org/xxxxx)
+
+**Example:**
+Lee, J., & Zhang, Y. (2020). Mental health in college students. *Journal of Student Psychology*, 22(3), 150–162. [https://doi.org/10.1037/spq0000398]
+
+---
+
+### ✅ **c. Article from an Online Periodical (e.g., News Website, Magazine)**
+
+**In-text citation:**
+*(Waters, 2022)*
+or
+*Waters (2022)*
+
+**Reference format:**
+Author, A. A. (Year, Month Day). Title of article. *Title of Website*. URL
+
+**Example:**
+Waters, L. (2022, July 10). How remote work is reshaping offices. *Forbes*. [https://www.forbes.com/remote-work](https://www.forbes.com/remote-work)
+
+---
+
+### ✅ **d. YouTube Video**
+
+**In-text citation:**
+*(CrashCourse, 2019)*
+or
+*CrashCourse (2019)*
+
+**Reference format:**
+Name of account or group. (Year, Month Day). *Title of video* [Video]. YouTube. URL
+
+**Example:**
+CrashCourse. (2019, August 13). *Statistics: Crash course sociology #7* [Video]. YouTube. [https://www.youtube.com/watch?v=Vfo5le26IhY](https://www.youtube.com/watch?v=Vfo5le26IhY)
+
+---
+
+## 🔷 CONCEPTS TO REMEMBER
+
+| Feature                  | APA Rule                                                       |
+| ------------------------ | -------------------------------------------------------------- |
+| **Authors**              | Last name + initials (Smith, J. A.)                            |
+| **Year only**            | Use (2020), not full date (except for news articles or videos) |
+| **Title Capitalization** | Sentence case for books/articles; Title Case for journals      |
+| **Italicize**            | Book titles, journal names, video titles                       |
+| **DOI or URL**           | Include for online sources if available                        |
+| **No author?**           | Start with title; move it to author position                   |
+| **3+ authors?**          | Use first name + *et al.* in in-text citation                  |
+
+---
+
+Would you like a printable PDF or cheat sheet for this APA guide?
+
+
+
+
+
+

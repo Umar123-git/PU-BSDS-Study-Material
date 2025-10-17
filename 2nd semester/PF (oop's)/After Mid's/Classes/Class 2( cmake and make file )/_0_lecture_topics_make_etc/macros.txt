@@ -1,0 +1,140 @@
+
+MACROS:
+
+WINDOWSSDKVERBINPATH = C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\
+__DOTNET_PREFERRED_BITNESS = 32
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+      LIBPATH = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\ATLMFC\lib\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22621.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+      INCLUDE = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um;C:\VisualC\include;C:\VisualC\include\ucrt;C:\VisualC\include\ucrt\sys
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+WINDOWSSDKLIBVERSION = 10.0.22621.0\
+      COMSPEC = C:\WINDOWS\system32\cmd.exe
+   VXIPNPPATH = C:\Program Files (x86)\IVI Foundation\VISA\
+WINDOWSSDKBINPATH = C:\Program Files (x86)\Windows Kits\10\bin\
+   _NMAKE_VER = 14.43.34810.0
+__VSCMD_PREINIT_INCLUDE = C:\VisualC\include;C:\VisualC\include\ucrt;C:\VisualC\include\ucrt\sys;
+   VCPKG_ROOT = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\vcpkg
+      PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+         MAKE = "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX86\x86\nmake.exe"
+VCTOOLSINSTALLDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\
+COMMANDPROMPTTYPE = Native
+   SYSTEMROOT = C:\WINDOWS
+         PATH = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX86\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\VCPackages;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\\x86;C:\Program Files (x86)\Windows Kits\10\bin\\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_111\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\SFML-3.0.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\texlive\2024\bin\windows;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\idrees\AppData\Local\Microsoft\WindowsApps;C:\Users\idrees\AppData\Roaming\npm;C:\VisualC\bin\HostX64\x64;C:\VisualC\bin\HostX64\x64\103;C:\Users\idrees\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\idrees\AppData\Local\Microsoft\WindowsApps;C:\Users\idrees\.dotnet\tools;C:\Users\idrees\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\vcpkg
+WINDOWSLIBPATH = C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22621.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0
+NUMBER_OF_PROCESSORS = 4
+  PROGRAMDATA = C:\ProgramData
+WINDOWSSDKVERSION = 10.0.22621.0\
+         TEMP = C:\Users\idrees\AppData\Local\Temp
+FRAMEWORK40VERSION = v4.0
+FRAMEWORKVERSION32 = v4.0.30319
+ PROGRAMW6432 = C:\Program Files
+__VSCMD_PREINIT_PATH = C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_111\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\SFML-3.0.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\texlive\2024\bin\windows;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\idrees\AppData\Local\Microsoft\WindowsApps;C:\Users\idrees\AppData\Roaming\npm;C:\VisualC\bin\HostX64\x64;C:\VisualC\bin\HostX64\x64\103;C:\Users\idrees\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\idrees\AppData\Local\Microsoft\WindowsApps;C:\Users\idrees\.dotnet\tools;C:\Users\idrees\AppData\Local\Programs\Microsoft VS Code\bin
+  SESSIONNAME = Console
+PROCESSOR_ARCHITEW6432 = AMD64
+  NETFXSDKDIR = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\
+VCTOOLSVERSION = 14.43.34808
+  USERPROFILE = C:\Users\idrees
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+  LOGONSERVER = \\DELL7359-IDREES
+     HOMEPATH = \Users\idrees
+__DOTNET_ADD_32BIT = 1
+     ONEDRIVE = C:\Users\idrees\OneDrive
+  SYSTEMDRIVE = C:
+     USERNAME = idrees
+VCIDEINSTALLDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\
+UNIVERSALCRTSDKDIR = C:\Program Files (x86)\Windows Kits\10\
+  UCRTVERSION = 10.0.22621.0
+ LOCALAPPDATA = C:\Users\idrees\AppData\Local
+USERDOMAIN_ROAMINGPROFILE = DELL7359-IDREES
+ VXIPNPPATH64 = C:\Program Files\IVI Foundation\VISA\
+ALLUSERSPROFILE = C:\ProgramData
+EXTENSIONSDKDIR = C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs
+VSCMD_ARG_TGT_ARCH = x86
+VSCMD_ARG_APP_PLAT = Desktop
+           CC = cl
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+ PROGRAMFILES = C:\Program Files (x86)
+    MAKEFLAGS = P                 
+ FRAMEWORKDIR = C:\Windows\Microsoft.NET\Framework\
+PROCESSOR_REVISION = 4e03
+ VCINSTALLDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\
+ COMPUTERNAME = DELL7359-IDREES
+           AS = ml
+           RC = rc
+ PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PROCESSOR_LEVEL = 6
+WINDOWSSDK_EXECUTABLEPATH_X64 = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\
+ VSINSTALLDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\
+WINDOWSSDK_EXECUTABLEPATH_X86 = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\
+PROCESSOR_ARCHITECTURE = x86
+           OS = Windows_NT
+    HOMEDRIVE = C:
+    DEVENVDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+ADSK_CLM_WPAD_PROXY_CHECK = FALSE
+    JAVA_HOME = C:\Program Files\Java\jdk1.8.0_111
+FPS_BROWSER_USER_PROFILE_STRING = Default
+FSHARPINSTALLDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools
+       PUBLIC = C:\Users\Public
+EXTERNAL_INCLUDE = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+    VSCMD_VER = 17.13.6
+ANDROID_SDK_HOME = C:\Android
+       WINDIR = C:\WINDOWS
+VSCMD_ARG_HOST_ARCH = x86
+VISUALSTUDIOVERSION = 17.0
+VCTOOLSREDISTDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.42.34433\
+FRAMEWORKVERSION = v4.0.30319
+          LIB = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\ATLMFC\lib\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22621.0\\um\x86;C:\VisualC\lib\x64;C:\VisualC\lib\ucrt\x64;C:\VisualC\lib\um\x64
+       PROMPT = $P$G
+          CPP = cl
+   DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+WINDOWSSDKDIR = C:\Program Files (x86)\Windows Kits\10\
+          TMP = C:\Users\idrees\AppData\Local\Temp
+FRAMEWORKDIR32 = C:\Windows\Microsoft.NET\Framework\
+          CXX = cl
+   USERDOMAIN = DELL7359-IDREES
+      APPDATA = C:\Users\idrees\AppData\Roaming
+      MAKEDIR = C:\Users\idrees\Desktop\make_macros
+VS170COMNTOOLS = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\
+
+
+INFERENCE RULES:
+
+.asm.obj::
+	commands:	$(AS) $(AFLAGS) /c $<
+
+.asm.exe:
+	commands:	$(AS) $(AFLAGS) $<
+
+.c.obj::
+	commands:	$(CC) $(CFLAGS) /c $<
+
+.c.exe:
+	commands:	$(CC) $(CFLAGS) $<
+
+.cc.obj::
+	commands:	$(CC) $(CFLAGS) /c $<
+
+.cc.exe:
+	commands:	$(CC) $(CFLAGS) $<
+
+.cpp.obj::
+	commands:	$(CPP) $(CPPFLAGS) /c $<
+
+.cpp.exe:
+	commands:	$(CPP) $(CPPFLAGS) $<
+
+.cxx.obj::
+	commands:	$(CXX) $(CXXFLAGS) /c $<
+
+.cxx.exe:
+	commands:	$(CXX) $(CXXFLAGS) $<
+
+.rc.res:
+	commands:	$(RC) $(RFLAGS) /r $<
+
+.SUFFIXES: .obj .asm .c .cc .cpp .cxx .f .f90 .for .rc 
+
+TARGETS:
+
+

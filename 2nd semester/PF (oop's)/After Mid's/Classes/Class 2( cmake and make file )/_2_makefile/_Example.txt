@@ -1,0 +1,76 @@
+Project/
+│
+├── src/
+│   ├── main.cpp
+│   ├── utils.cpp
+│
+├── include/
+│   ├── utils.h
+│
+├── lib/
+│   └── some_library.lib
+│
+├── Makefile
+
+
+
+
+
+# Compiler and Tools
+CC=cl
+LINK=link
+
+# Directories
+SRC_DIR=src
+INCLUDE_DIR=include
+LIB_DIR=lib
+BUILD_DIR=build
+
+# Source and Object files
+SOURCES=$(SRC_DIR)\main.cpp $(SRC_DIR)\utils.cpp
+OBJECTS=$(BUILD_DIR)\main.obj $(BUILD_DIR)\utils.obj
+
+# Output Executables
+DEBUG_EXE=$(BUILD_DIR)\my_app_debug.exe
+RELEASE_EXE=$(BUILD_DIR)\my_app_release.exe
+
+# Include and Libs
+INCLUDES=/I$(INCLUDE_DIR)
+LIBS=$(LIB_DIR)\some_library.lib
+
+# Compiler Flags
+CFLAGS_DEBUG=/c /Zi /Od /MDd $(INCLUDES)
+CFLAGS_RELEASE=/c /O2 /MD $(INCLUDES)
+
+# Linker Flags
+LFLAGS_DEBUG=/DEBUG /OUT:$(DEBUG_EXE)
+LFLAGS_RELEASE=/OUT:$(RELEASE_EXE)
+
+# Default target
+all: debug
+
+# Debug build
+debug: $(DEBUG_EXE)
+
+$(DEBUG_EXE): $(OBJECTS)
+	$(LINK) $(LFLAGS_DEBUG) $(OBJECTS) $(LIBS)
+
+$(BUILD_DIR)\%.obj: $(SRC_DIR)\%.cpp
+	if not exist $(BUILD_DIR) mkdir $(BUILD_DIR)
+	$(CC) $(CFLAGS_DEBUG) $< /Fo$@
+
+# Release build
+release: CFLAGS=$(CFLAGS_RELEASE)
+release: LFLAGS=$(LFLAGS_RELEASE)
+release: $(RELEASE_EXE)
+
+$(RELEASE_EXE): $(OBJECTS)
+	$(LINK) $(LFLAGS) $(OBJECTS) $(LIBS)
+
+# Clean
+clean:
+	if exist $(BUILD_DIR) rmdir /s /q $(BUILD_DIR)
+    
+    
+    
+nmake /f Makefile debug

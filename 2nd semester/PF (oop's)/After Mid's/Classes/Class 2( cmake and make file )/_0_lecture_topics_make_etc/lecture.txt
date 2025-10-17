@@ -1,0 +1,50 @@
+Plateform
+    Hardware x86, x64
+    OS Linux,macOS, Windows
+
+OS Commands on CMD
+    introduced at the begining of the PF
+    maybe different in various OSs like macOS, Linux, Windows
+    examples: ls vs dir, rm vs del, cd, pwd vs cd, cat vs type, touch, echo etc
+    batch files
+    
+Command line arguments/parameters/switches/flags
+    dir, dir \ /s, dir /b, dir /oe, date, date /t, tree src /a /f
+    ls, ls -l
+    wildcards
+    i/o redirection
+
+environment variables
+    in class room just CMD unable to compile and link etc
+        C:\VisualC\env.bat to be executed for compile etc
+    in class room Dev. Cmd Prmpt. can compile etc
+    set var=strdata, set var, set
+        only for one session of command, batch file
+        OS special batch file, profiles
+        GUI based tools to create/update env vars
+
+resouurces
+        
+must learn which and how to set environment for a program to run or system of programs to run
+
+EXECUTABLE VS LIBRARY
+    static vs dynamic library
+
+using 3rd party libraries
+
+switches of cl and link, or switches of gcc, g++ etc
+
+debug and release
+
+make
+nmake
+    TARGETS:
+    MACROS
+    INFERENCE RULES:
+    .SUFFIXES:
+
+cmake
+    build, test, package
+
+versioning
+    svn, git, etc

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basic Arithmetic</title>
+</head>
+<body>
+<h1 style="color:red;">Task 1:</h1>
+<input type="number" id="num1" placeholder="ENTER FIRST NUMBER"><br><br>
+<input type="number" id="num2" placeholder="ENTER SECOND NUMBER"><br><br>
+<button onclick="add()">Add(+)</button>&nbsp;
+<button onclick="sub()">Subtract(-)</button>&nbsp;
+<button onclick="mul()">Multiple(*)</button>&nbsp;
+<button onclick="div()">Divide(/)</button><br><br><br>
+
+<h3>Result is :</h3><h4 id="res"></h4>
+
+<script>
+
+function add()
+ {
+let n1 = parseFloat(document.getElementById('num1').value);
+let n2 = parseFloat(document.getElementById('num2').value);
+let result = n1 + n2;
+document.getElementById('res').innerHTML = result;
+}
+
+
+function sub() 
+{
+let n1 = parseFloat(document.getElementById('num1').value);
+let n2 = parseFloat(document.getElementById('num2').value);
+let result = n1 - n2;
+document.getElementById('res').innerHTML = result;
+}
+
+
+function mul() 
+{
+let n1 = parseFloat(document.getElementById('num1').value);
+let n2 = parseFloat(document.getElementById('num2').value);
+let result = n1 * n2;
+document.getElementById('res').innerHTML = result;
+}
+
+
+function div() 
+
+{
+let n1 = parseFloat(document.getElementById('num1').value);
+let n2 = parseFloat(document.getElementById('num2').value);
+let result = n1 / n2;
+document.getElementById('res').innerHTML = result;
+}
+</script>
+</body>
+</html>

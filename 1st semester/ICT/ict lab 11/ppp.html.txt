@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 3 - Web Page</title>
+    <style>
+        body {
+            font-family: 'Century Gothic', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4500d4;
+            color: white;
+            text-align: center;
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+        }
+        .container {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+ .left {
+            display: table-cell;
+            background-color: #f0f0f0;
+            padding: 20px;
+            width: 70%;
+        }
+        .right {
+            display: table-cell;
+            background-color: #dcdcdc;
+            padding: 20px;
+            width: 30%;
+        }
+        .right img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">300px Tall Club</div>
+    <div class="container">
+        <div class="left">
+            <h2>Welcome to my website</h2>
+            <p><em>Posted on 6 December 2018 by Usman Ali</em></p>
+            <p>Hello, Welcome to my website! I am a web developer now. AHAHAHAH. This is very epic. I shall post great content here on this website! Have fun.</p>
+            <ul>
+                <li>I need visitors</li>
+                <li>The website is nice</li>
+  <li>Please</li>
+            </ul>
+            <p>I also update content as well!! PLEASE!!!</p>
+        </div>
+        <div class="right">
+            <h3>Additional Content!!!</h3>
+            <p>We offer additional content to you as well OMG!!</p>
+            <img src="airplane.jpg" alt="Airplane">
+        </div>
+    </div>
+</body>
+</html>

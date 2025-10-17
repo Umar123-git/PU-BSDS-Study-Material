@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Burger Hut</title>
+</head>
+<body style="margin: 0; font-family: Arial, sans-serif; background-color: #020A17; color: white;">
+
+    <nav style="display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 5%; position: fixed; width: 90%; z-index: 1000; background-color:#020A17;">
+        <div>
+            <img src="logo.png" alt="Burger Hut Logo" style="height: 50px;">
+        </div>
+        <div style="display: flex; gap: 2rem;">
+            <a href="#home" style="color: white; text-decoration: none; font-size: 1.1rem;">Home</a>
+            <a href="#about" style="color: white; text-decoration: none; font-size: 1.1rem;">About</a>
+            <a href="#menu" style="color: white; text-decoration: none; font-size: 1.1rem;">Menu</a>
+            <a href="#reservations" style="color: white; text-decoration: none; font-size: 1.1rem;">Reservations</a>
+            <a href="#contact" style="color: white; text-decoration: none; font-size: 1.1rem;">Contact</a>
+            
+        </div>
+    </nav>
+
+    <section id="home">
+        <div>
+		<img src="home.jpeg" alt="Image" style="width: 100%;">
+        <div style="position: absolute; top: 30%; left: 5%;">
+            <h1 style="font-size: 3.5rem; margin-bottom: 1rem;">Welcome to Burger Hut</h1>
+            <p style="font-size: 1.5rem; margin-bottom: 2rem;">Experience the Taste of Perfection</p>
+            <a href="#menu" style="position: absolute; top: 100%; background-color: #ff0000; color: white; padding: 1rem 2rem; border-radius: 5px;  font-size: 1.1rem; text-decoration: none; ">Explore Our Menu</a>
+        </div>
+        
+    </section>
+
+    <section id="about" style="margin-bottom: 5%;">
+        <div>
+            <img src="about.jpg" alt="Gourmet Burger" style="width: 43%; border-radius: 20px; margin-top: 7%; margin-left: 53%;">
+        </div>
+        <div style="position: absolute; left: 5%; top: 126%;">
+            <h2 style="font-size: 3rem;">About Burger Hut</h2>
+            <br>
+            <p>Experience the finest gourmet burgers in a cozy and rustic atmosphere. At<br>Burger Hut, we are dedicated to delivering exceptional flavors that will <br>tantalize your taste buds.</p>
+            <br>
+            <p>Our chefs meticulously craft each burger using locally sourced ingredients <br>and unique flavor combinations. From juicy beef patties to mouthwatering<br> vegetarian options, there's something for everyone.</p>
+            <br>
+            <a href="#menu" style="background-color: #ff0000; color: white; padding: 1rem 2rem; border: none; border-radius: 5px; cursor: pointer; font-size: 1.1rem; text-decoration: none; display: inline-block;">Explore Our Menu</a>
+        </div>
+        
+    </section>
+
+    <section id="menu" style="padding: 5rem 5%; text-align: center;">
+        <h2 style="font-size: 3rem; margin-bottom: 3rem;">Our Menu</h2>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
+            <div style=" padding: 2rem;">
+                <img src="Classic Cheeseburger.jpg" alt="Classic Cheeseburger" style="width: 100%; margin-bottom: 1rem; border-radius: 20px;">
+                <h3>Classic Cheeseburger</h3>
+                <p>A juicy beef patty topped with melted cheese, fresh lettuce, tomato, and our special sauce. Served with a side of crispy fries.</p>
+            </div>
+            <div style="padding: 2rem; border-radius: 10px;">
+                <img src="Veggie Delight.jpg" alt="Veggie Delight" style="width: 100%; margin-bottom: 1rem; border-radius: 20px;">
+                <h3>Veggie Delight</h3>
+                <p>A delicious veggie patty made from a blend of fresh vegetables and spices. Topped with avocado, sprouts, and tangy mayo. Served with a side of sweet potato fries.</p>
+            </div>
+            <div style="padding: 2rem; border-radius: 10px;">
+                <img src="Spicy BBQ Burger.jpg" alt="Spicy BBQ Burger" style="width: 100%; margin-bottom: 1rem; border-radius: 20px;">
+                <h3>Spicy BBQ Burger</h3>
+                <p>A fiery burger packed with flavor! Grilled chicken breast smothered in spicy BBQ sauce, topped with jalapenos, crispy onion rings, and chipotle mayo. Served with a side of coleslaw.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="reservations" style="padding: 5rem 23%;">
+        <div style="background-color: #1a1a1a; padding: 3rem; border-radius: 10px; width: 100%; max-width: 600px;">
+            <h2 style="text-align: center; margin-bottom: 2rem; font-size: 3rem;">Make a Reservation</h2>
+            <form>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="text" placeholder="Your Name" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="email" placeholder="Your Email" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="tel" placeholder="Phone Number" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="date" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="time" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <textarea placeholder="Additional Message" rows="4" style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;"></textarea>
+                </div>
+                <button type="submit" style="background-color: #ff0000; color: white; padding: 1rem 2rem; border: none; border-radius: 5px; font-size: 1.1rem; text-decoration: none; cursor: pointer;">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <section id="testimonials" style="padding: 5%; text-align: center;">
+        <h2 style="font-size: 3rem; margin-bottom: 3rem;">What Our Customers Say</h2>
+        
+            
+                <img src="John Doe.png" alt="John Doe" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 1rem;">
+                <p>"The cheeseburger at Burger Hut boasts a succulent beef patty cooked to perfection. Each bite is a delightful combination of juicy meat, melted cheese, and fresh toppings, all nestled within a soft, toasted bun. The balance of flavors is impeccable, and the special sauce adds a unique twist that sets it apart from the average cheeseburger. It's clear that the chefs put considerable thought into crafting a burger that appeals to both the classic and the adventurous palate."</p>
+				<br><br><br><br>
+				<img src="Mia.jpeg" alt="Mia" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 1rem;">
+                <p>"The Spicy Burger at Burger Hut is a true delight for spice lovers! The patty is perfectly seasoned with a fiery kick that leaves a lasting impression. The combination of crispy lettuce, juicy tomato slices, and a special spicy sauce elevates the flavors to new heights. The bun is soft and fresh, holding all the ingredients together beautifully. Served with a side of crispy fries, it's a meal that satisfies both the taste buds and the soul."</p>
+				
+				
+				
+		<section id="gallery" style="padding: 5rem 5%;">
+				<h2 style="font-size: 3rem; margin-bottom: 5rem;">Gallery</h2>	
+<div style="display: grid; grid-template-columns: repeat(4, 1fr);">
+            <div style="  border-radius: 10px;">
+                <img src="g1.jpeg" alt="Classic Cheeseburger" style="width: 91%; margin-bottom: 1rem;">				
+				 </div>
+            <div style=" border-radius: 10px;">
+                <img src="g2.jpg" alt="Veggie Delight" style="width: 91%; margin-bottom: 1rem;">
+			</div>
+            <div style=" border-radius: 10px;">
+                <img src="g3.jpeg" alt="Spicy BBQ Burger" style="width: 91%; margin-bottom: 1rem;">
+            </div>
+            <div style=" border-radius: 10px;">
+                <img src="g4.jpeg" alt="Spicy BBQ Burger" style="width: 91%; margin-bottom: 1rem;">
+			</div>
+			</section>
+				
+			
+				
+
+	<section id="contact" style="padding: 9rem 15%;">
+        <div>
+            <h2 style="text-align: center; margin-bottom: 2rem; font-size: 3rem;">Contact Us</h2>
+			<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 3rem;">
+				<p3>123 Main Street,Lahore,Pakistan</p3>
+				<p3>+92 0370 0629 942</p3>
+				<p3>info@burgerhut.com</p3>
+			</div>  <br><br>
+			
+            <form>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="text" placeholder="Your Name" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                <div style="margin-bottom: 1.5rem;">
+                    <input type="email" placeholder="Your Email" required style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;">
+                </div>
+                
+                <div style="margin-bottom: 1.5rem;">
+                    <textarea placeholder="Your Message" rows="4" style="width: 100%; padding: 1rem; border: none; border-radius: 5px; background-color: white;"></textarea>
+                </div>
+                <button type="submit" style="background-color: #ff0000; color: white; padding: 1rem 2rem; border: none; border-radius: 5px; cursor: pointer; font-size: 1.1rem; text-decoration: none; display: inline-block;">Sent Message</button>
+            </form>
+        </div>
+    </section>	
+<br><br><br><br><br><br><br><br><br><br><br>	
+				
+			
+			
+		<img src="logo.png" alt="Burger Hut" style="width: 20%; margin-bottom: 1rem;">
+			<div>
+			<a href="#home" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Home</a>
+            <a href="#about" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">About</a>
+            <a href="#menu" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Menu</a>
+            <a href="#reservations" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Reservations</a>
+            <a href="#testimonials" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Testimonials</a>
+            <a href="#gallery" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Gallery</a>
+            <a href="#contact" style="color: white; text-decoration: none; font-size: 1.1rem; margin: 0 15px;">Contact</a>
+
+        </div>
+			<br><br><br><p style="margin: 0;">© 2023 Burger Hut. All rights reserved.</p>
+			
+				
+				
+				</body>
+				</html>

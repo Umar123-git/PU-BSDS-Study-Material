@@ -1,0 +1,36 @@
+Task 1: Student Records Management System (50 marks)
+Create a class Student with the following:
+
+Private data members: name, rollNo, cgpa
+
+Constructor, setDetails(), displayDetails()
+
+Member function to check if the student is on Dean’s Honor List (cgpa >= 3.5)
+
+Write a main.cpp to:
+
+Input details of 3 students.
+
+Display their details and indicate if they're on Dean's list.
+
+
+
+
+
+
+Task 2: Bank Account Simulation (50 marks)
+Create a class BankAccount with:
+
+Private data members: accountNumber, holderName, balance
+
+Constructor, deposit(), withdraw(), displayAccount()
+
+Function to check for insufficient balance.
+
+main.cpp should:
+
+Create 2 accounts.
+
+Perform deposits and withdrawals.
+
+Display final balance with appropriate messages.

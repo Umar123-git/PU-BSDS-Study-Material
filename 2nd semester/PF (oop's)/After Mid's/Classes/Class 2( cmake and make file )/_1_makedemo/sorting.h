@@ -1,0 +1,1 @@
+void selsort(int ar[], int sz);

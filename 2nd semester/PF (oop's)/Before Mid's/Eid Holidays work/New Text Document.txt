@@ -1,0 +1,129 @@
+						Text.h (Header File)
+
+#ifndef TEXT_H
+#define TEXT_H
+
+#include<iostream>
+#include<string>
+#include<array>
+#include<cmath>
+using namespace std;
+
+class Text
+{
+	protected:
+		int n;
+		char* arr;
+		
+	public:
+		Text();
+		~Text();
+		void sinle_use_add(string& a);
+		void multip_use_adder(string& a);
+		void length_of_string();
+		void display();
+};
+
+#endif
+
+
+
+
+					Text.cpp (Class Implementation File)
+
+#include "Text.h"
+
+Text::Text()
+{
+	n=10;
+	arr=new char[n];
+	cout<<"default constructor \n";
+}
+
+Text::~Text()
+{
+	cout<<"\nDestructor\n";
+	delete[] arr;
+}
+
+void Text::sinle_use_add(string& a)
+{
+	delete[] arr; 
+	n=a.length();
+	arr = new char[n];
+	for(int i=0 ; i<n ; i++)
+	{
+		arr[i]=a[i];
+	}
+	//	arr[n]=' ';
+}
+
+void Text::multip_use_adder(string& a)
+{
+	char* temp = new char[n];
+	memcpy(temp , arr , n*sizeof(char));
+	delete[] arr;
+	
+	int size=this->n;
+	n=1+n+a.length();
+	arr = new char[n];
+	memcpy(arr , temp , n*sizeof(char));
+	
+	for(int i=0 ; i<a.length() ; i++)
+	{
+		arr[size+i+1]=a[i];
+	}
+	arr[size]=' ';
+	delete[] temp;
+}
+
+void Text::length_of_string()
+{
+	cout<<"Length of string is :"<<n;
+}
+
+void Text::display()
+{
+	cout<<"\ndisplay :";
+	for(int i=0 ; i<n ; i++)
+	{
+		cout<<arr[i];	
+	}
+	cout<<"\n";
+}
+
+
+					main.cpp (Main Function File)	
+
+
+#include "Text.h"
+
+int main()
+{
+	Text t;
+	string a;
+	cout<<"Enter the Text : ";
+	getline(cin,a);
+	t.sinle_use_add(a);
+	t.length_of_string();
+	t.display();
+	
+	cout<<"You wants to add more text in it? (Y or N) :";
+	char m;  
+	cin>>m;
+	cin.ignore();
+	if(m == 'Y' || m == 'y')
+	{         
+		getline(cin,a);
+		t.multip_use_adder(a);
+		t.length_of_string();
+		t.display();
+	}
+	else
+	{
+		return 0;
+	}
+	
+	return 0;
+}
+

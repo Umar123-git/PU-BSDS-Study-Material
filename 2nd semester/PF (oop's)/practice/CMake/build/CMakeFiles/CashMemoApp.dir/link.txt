@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CashMemoApp.dir/objects.a
+C:\PROGRA~2\EMBARC~1\Dev-Cpp\TDM-GC~1\bin\ar.exe qc CMakeFiles\CashMemoApp.dir/objects.a @CMakeFiles\CashMemoApp.dir\objects1.rsp
+C:\PROGRA~2\EMBARC~1\Dev-Cpp\TDM-GC~1\bin\G__~1.EXE -Wl,--whole-archive CMakeFiles\CashMemoApp.dir/objects.a -Wl,--no-whole-archive -o CashMemoApp.exe -Wl,--out-implib,libCashMemoApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CashMemoApp.dir\linkLibs.rsp
