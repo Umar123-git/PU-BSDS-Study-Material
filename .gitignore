@@ -34,3 +34,11 @@ desktop.ini
 
 # Ignore Git repo folders
 */.git/
+
+# Ignore large documents and books
+*.pdf
+*.pptx
+*.docx
+*.epub
+*.iso
+
