@@ -1,0 +1,14 @@
+Working of TASK 1
+
+This program takes a string you type in capital letters and shifts each letter forward by three positions in the alphabet. For example, A becomes D, B becomes E, and so on. When it reaches the end of the alphabet, it wraps around: X becomes A, Y becomes B, Z becomes C. After shifting all the letters, it prints the transformed string as the “Shifted” message.
+
+
+
+
+
+
+Working of TASK 2
+
+
+The program asks you to type a sentence. When you press Enter, it takes what you typed and runs it through an encoding table. This table replaces each capital letter with another letter, like a secret code. The result is stored in the output area and then shown on the screen as the “Encoded” message.
+After that, the program takes the encoded message and runs it through a decoding table. This second table is the reverse of the first one, so it changes the letters back to the originals. The result is stored in another output area and then shown on the screen as the “Decoded” message.
