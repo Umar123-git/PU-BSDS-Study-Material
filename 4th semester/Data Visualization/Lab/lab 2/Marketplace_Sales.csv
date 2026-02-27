@@ -1,0 +1,26 @@
+ID,Date,Buyer,Product,Units,PricePerUnit,Province,OrderState,Fee %,Seller Notes
+M3001,1-Feb-2024,C006 - Usman,Laptop,1,1100,Punjab,Delivered,2%,-
+M3002,2-Feb-2024,C002 - Sara Ahmed,Mouse,1,18,Sindh,Delivered,2%,-
+M3003,3-Feb-2024,C039 - Sameer,Keyboard,1,48,Punjab,Delivered,2%,-
+M3004,3-Feb-2024,C040 - Iqra,USB Cable,4,5,KPK,Delivered,2%,-
+M3005,4-Feb-2024,C041 - Laiba,Headphones,1,78,Punjab,Delivered,2%,-
+M3006,4-Feb-2024,C005 - Hina,Headphones,1,77,Sindh,Delivered,2%,-
+M3007,5-Feb-2024,C042 - Omar,Laptop,1,1120,Punjab,Delivered,2%,-
+M3007,5-Feb-2024,C042 - Omar,Laptop,1,1120,Punjab,Delivered,2%,-
+M3008,,C043 - Noor,Laptop Bag,1,35,Balochistan,Delivered,2%,missing date
+M3009,6-Feb-2024,C044 - Hassan,Mouse Pad,2,7,Punjab,Delivered,2%,-
+M3010,6-Feb-2024,C006 - Usman,Laptop,1,1110,Punjab,Delivered,2%,repeat buyer
+M3011,7-Feb-2024,C045 - Ahmed,Mouse,3,18,Sindh,Delivered,2%,-
+M3012,7-Feb-2024,C002 - Sara Ahmed,Mouse,2,18,Sindh,Delivered,2%,-
+M3013,8-Feb-2024,C046 - Maryam,USB Cable,2,5,KPK,Returned,2%,damaged
+M3014,8-Feb-2024,C047 - Zain,Smart Watch,1,145,Punjab,Delivered,2%,-
+M3015,9-Feb-2024,C005 - Hina,Headphones,1,76,Sindh,Delivered,2%,-
+M3016,9-Feb-2024,C048 - Daniyal,Mouse Pad,3,7,Sindh,Delivered,2%,-
+M3017,10-Feb-2024,C049 - Farhan,Keyboard,1,49,Sindh,Cancelled,2%,buyer cancelled
+M3018,10-Feb-2024,C050 - Mahnoor,Laptop,1,1130,KPK,Delivered,2%,-
+M3019,11-Feb-2024,C006 - Usman,Laptop,1,1105,Punjab,Delivered,2%,-
+M3020,11-Feb-2024,C051 - Saad,Mouse,1,18,Punjab,Delivered,2%,-
+M3021,12-Feb-2024,C052 - Ayesha,Laptop Bag,1,34,Sindh,Delivered,2%,-
+M3022,12-Feb-2024,C002 - Sara Ahmed,Mouse,1,18,Sindh,Delivered,2%,-
+M3023,13-Feb-2024,C053 - Hamza,Keyboard,2,47,Punjab,Delivered,2%,-
+M3024,13-Feb-2024,C005 - Hina,Headphones,1,75,Sindh,Delivered,2%,-

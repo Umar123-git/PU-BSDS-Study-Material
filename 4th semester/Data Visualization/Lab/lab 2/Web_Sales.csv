@@ -1,0 +1,26 @@
+Order No,Order_Date,Customer Details,Product,Qty,Unit Price,State,Order Status,Discount %,Extra Notes
+W-1001,01-02-2024,C001 - Ali Khan,Laptop,2,1200,Punjab,Completed,5%,NULL
+W-1002,02/02/24,C002 - Sara Ahmed,Mouse,1,20,Sindh,Completed,,-
+W-1003,,C003 - Ahmed Raza,Keyboard,three,50,Punjab,Returned,0%,damaged
+W-1004,03-02-2024,C004 - Bilal ,USB Cable,2,5,Punjab,Completed,0%,-
+W-1005,03-02-2024,C005 -  Hina,Headphones,1,80,Sindh,Completed,10%,promo
+W-1006,04/02/2024,C006 - Usman,Laptop,1,1190,Punjab,Completed,5%,-
+W-1007,04-02-2024,C007 - Maryam,Mouse Pad,2,8,KPK,Completed,0%,-
+W-1008,05-02-2024,C008 - Hassan,Keyboard,1,55,Punjab,Completed,0%,-
+W-1009,05-02-2024,C009 -  Ayesha ,Laptop Bag,1,40,Sindh,Completed,5%,-
+W-1010,06-02-2024,C002 - Sara Ahmed,Mouse,1,20,Sindh,Completed,,duplicate check
+W-1010,06-02-2024,C002 - Sara Ahmed,Mouse,1,20,Sindh,Completed,,duplicate check
+W-1011,06-02-2024,C010 - Zain,Smart Watch,1,150,Punjab,Completed,15%,-
+W-1012,07-02-2024,C011 - Iqra,USB Cable,4,5,KPK,Completed,0%,-
+W-1013,07-02-2024,C012 -  Hamza,Headphones,2,75,Punjab,Returned,0%,wrong item
+W-1014,08-02-2024,C013 - Sana,Mouse,2,19,Sindh,Completed,0%,-
+W-1015,08-02-2024,C014 - Omar,Laptop,1,1180,Punjab,Completed,5%,-
+W-1016,09-02-2024,C015 - Noor,Keyboard,1,52,Balochistan,Completed,0%,-
+W-1017,09-02-2024,C016 - Daniyal,Mouse Pad,3,8,Sindh,Completed,0%,-
+W-1018,10-02-2024,C017 - Laiba,USB Cable,2,5,Punjab,cancelled,0%,customer cancelled
+W-1019,10-02-2024,C005 - Hina,Headphones,1,80,Sindh,Completed,10%,repeat customer
+W-1020,11-02-2024,C018 -  ,Laptop,1,1210,Punjab,Completed,5%,blank name
+W-1021,11-02-2024,C019 - Farhan,Mouse,2,20,Sindh,Completed,0%,-
+W-1022,12-02-2024,C020 - Mahnoor,Laptop Bag,1,39,KPK,Completed,5%,-
+W-1023,12-02-2024,C006 - Usman,Laptop,1,1190,Punjab,Completed,5%,-
+W-1024,13-02-2024,C021 - Saad,Keyboard,2,50,Punjab,Completed,0%,-

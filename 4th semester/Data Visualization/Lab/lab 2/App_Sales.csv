@@ -1,0 +1,26 @@
+OrderID,Date,CustID,CustName,Product_Name,Quantity,Price,Region,Status,PromoCode
+A2001,2024/02/01,C004, Bilal  ,Laptop,1,1150,Punjab,success,APP10
+A2002,2024/02/02,C005,Hina,Mouse,2,20,Sindh,completed,
+A2003,2024-02-03,C022,Ahmed,Keyboard,1,49,Punjab,Completed,APP5
+A2004,2024-02-03,C002,Sara Ahmed,Mouse,1,20,Sindh,Success,
+A2005,2024-02-04,C006,Usman,Laptop,1,1175,Punjab,completed,APP10
+A2005,2024-02-04,C006,Usman,Laptop,1,1175,Punjab,completed,APP10
+A2006,2024-02-04,C023,  Maryam,USB Cable,3,5,KPK,success,
+A2007,,C024,Ali,Headphones,1,85,Sindh,completed,APP15
+A2008,2024/02/05,C025,Zain,Smart Watch,1,155,Punjab,success,APP5
+A2009,2024/02/06,C026,Noor,Laptop Bag,1,42,Balochistan,completed,
+A2010,2024/02/06,C027,Iqra,Mouse Pad,2,8,KPK,Completed,
+A2011,2024/02/07,C028,Sana,Mouse,1,19,Sindh,success,
+A2012,2024/02/07,C029, Hamza ,Keyboard,two,50,Punjab,completed,APP5
+A2013,2024/02/08,C030,Laiba,USB Cable,5,5,Punjab,Success,APP10
+A2014,2024/02/08,C031,Omar,Laptop,1,1185,Punjab,completed,
+A2015,2024/02/09,C032,Ayesha,Laptop Bag,1,38,Sindh,completed,
+A2016,2024/02/09,C002,Sara Ahmed,Mouse,2,20,Sindh,success,
+A2017,2024/02/10,C033,Daniyal,Mouse Pad,3,8,Sindh,completed,
+A2018,2024/02/10,C034,Farhan,Headphones,1,79,Sindh,returned,
+A2019,2024/02/11,C035,Mahnoor,Keyboard,1,51,KPK,completed,
+A2020,2024/02/11,C006,Usman,Laptop,1,1170,Punjab,Success,APP10
+A2021,2024/02/12,C036,Saad,Mouse,1,20,Punjab,cancelled,
+A2022,2024/02/12,C037,Hassan,USB Cable,2,5,Punjab,completed,
+A2023,2024/02/13,C038,Sara,Mouse,1,20,Sindh,success,
+A2024,2024/02/13,C005,Hina,Headphones,1,80,Sindh,completed,APP15
