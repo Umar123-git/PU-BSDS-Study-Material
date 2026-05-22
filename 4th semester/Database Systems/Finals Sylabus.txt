@@ -1,0 +1,5 @@
+*DB SYLLABUS:*
+
+ER modeling
+Normalization
+Transaction
