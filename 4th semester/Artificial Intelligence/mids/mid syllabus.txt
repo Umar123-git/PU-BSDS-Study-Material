@@ -1,0 +1,38 @@
+*AI topics covered till now:*
+1. Introduction & History of AI
+2. Knowledge representation and Search - PSSH
+3. State space Search & Its Strategies 
+4. *⁠Uninformed Search* (Bachtrack, DFS, BFS, DFID)
+5. *⁠Informed Search* (heuristic search, Best First Search, A* search, Hill climbing)
+6. ⁠characteristics of Heuristics
+7. *⁠Adversarial Search* (minimax, Alpha Beta Pruning)
+8. *⁠Genetic Algorithms* (key concepts, chromosomes, population, Fitness, Roulette Wheel & Tournament selection, crossover - single point crossover, mutation) & *examples* (knapsack problem 0-1, CNF Satisfaction, Traveling Salesperson)
+
+
+
+
+Midterm Exam Topics:
+√ Physical Symbol System Hypothesis,
+√ Representation,
+√ Search (exhaustive and heuristic),
+√ Goal Driven and Data Driven Search, 
+√ Turing Test, 
+√ Chinese Room Experiment, 
+√ State Space representation, 
+√ Exhaustive search methods (BFS,DFS,DFID) and heuristic search methods (A*,Uniform Cost Search, Hill Climbing),
+√ Properties of heuristics, 
+√ Adversarial Search, 
+√ Minimax and Alpha Beta searches, 
+√ Genetic Algorithm, 
+√ representation, 
+√ fitness function, 
+√ selection (roulette wheel, tournament),
+√ genetic operators (crossover (single pt, multipoint, uniform), order (for TSP), arithmetic, Blend), 
+√ mutation (bit inversion, exchange, sequence inversion, uniform distribution, normal distribution (for real-valued representation), 
+√ Replacement strategies (Partial vs Full), elitism.
+√ Effects of different parameters on the performance of GA, stagnation, diversity, exploration vs exploitation
+
+References 
+1. Textbook Chapters: 3, 4, 12.1
+2. Slides
+3. AI Illuminated: Chapters:6 (6.1-6.4),14 (14.1-14.8)
