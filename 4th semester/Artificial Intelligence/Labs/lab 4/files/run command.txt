@@ -1,0 +1,1 @@
+& "C:/Users/umaru/AppData/Local/Python/pythoncore-3.14-64/python.exe" -u "d:\Study Material\4th semester\Artificial Intelligence\Labs\lab 4\files\loan_model.py"

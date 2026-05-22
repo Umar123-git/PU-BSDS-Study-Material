@@ -1,0 +1,8 @@
+* 1. Linear Regression (Notes-1) except for 1.3 & 1.4)
+
+* 2. Logistic Regression (Notes-2) except for the Remark 2.1.1 and 2.1 Digression.... on page 23. Moreover, note that the derivation on page 22 is based on maximizing likelihood, and hence is  based on gradient ascent not descent. Therefore, you are advised to follow the derivation in the class.
+
+* 3. Chapter on Decision Trees. 
+  Topics 3.5 and 3.6 are optional. 3.7 excluding 3.7.5.
+
+* 4. Handout on Random Forests
