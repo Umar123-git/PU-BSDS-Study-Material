@@ -1,0 +1,32 @@
+*Limits*
+two and three variables limits
+Show function has no limit (two path test, The repeated or Iterated Limits, polar coordinates)
+Continuous Limits
+
+
+*Derivatives*
+√ Partial Derivatives
+√ Total Differentials
+√ Laplace Equations
+√ The wave equation
+√ Harmonic Functions or Potential Functions
+√ Linearization
+√ The Chain Rule( for two and three independant variables)
+√ Implicit Differentiations
+√ Partial Derivatives with constrained variables
+√ Directional Derivatives
+√ The gradient vector
+√ Algebra Rules for Gradient
+√ Tangent plane and normal line
+√ Second derivative test for local extreme values
+
+*Multiple Integrals*
+√ Double Integral over Rectangle
+√ Fubinis Theorem (First Form)
+√ Fubinis Theorem (Strong Form)
+√ Average Value of f over R
+√ Polar Coordinates
+√ Triple Integral in Rectangular Coordinates
+√ Volume of Closed Bounded region D in space
+√ Average Value of function in space
+√ Triple Integrals in cylindrical and spherical coordinates

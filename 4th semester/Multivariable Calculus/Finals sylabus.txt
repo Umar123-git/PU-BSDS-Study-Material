@@ -1,0 +1,12 @@
+*MULTICALC SYLLABUS:*
+
+* Line Intergral (first+second form)
+* Green's Theorem
+* Laplace Transform
+** Gamma Functions
+* Inverse Laplace Transform
+* Periodic Functions
+* Fourier Series
+* Fourier Transform
+* Fourier sine Transform
+* Fourier cosine Transform
