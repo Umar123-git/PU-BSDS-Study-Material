@@ -1,0 +1,21 @@
+OrderID,OrderDate,Country,Region,Team,Product,Category,Salesperson,CustomerSegment,Shipments,UnitPrice,SalesAmount,Discount,Profit
+1001,2023-01-05,USA,North,Team A,Laptop,Electronics,John,Corporate,12,2000,24000,0.05,6000
+1002,2023-01-07,UK,West,Team B,Mouse,Electronics,Alice,Consumer,40,100,4000,0.02,1200
+1003,2023-01-10,India,South,Team A,Chair,Furniture,Rahul,Corporate,15,500,7500,0.03,2000
+1004,2023-01-12,USA,North,Team C,Table,Furniture,David,Home Office,10,1000,10000,0.04,2500
+1005,2023-02-01,UK,West,Team A,Laptop,Electronics,Alice,Corporate,8,2000,16000,0.05,4000
+1006,2023-02-05,India,South,Team B,Mouse,Electronics,Rahul,Consumer,50,100,5000,0.01,1500
+1007,2023-02-10,USA,North,Team A,Chair,Furniture,John,Corporate,20,500,10000,0.02,3000
+1008,2023-03-02,UK,West,Team C,Table,Furniture,David,Home Office,12,1000,12000,0.03,3200
+1009,2023-03-10,India,South,Team B,Laptop,Electronics,Rahul,Corporate,5,2000,10000,0.05,2500
+1010,2023-03-15,USA,North,Team A,Mouse,Electronics,John,Consumer,60,100,6000,0.02,1800
+1011,2023-04-01,UK,West,Team B,Chair,Furniture,Alice,Home Office,18,500,9000,0.03,2500
+1012,2023-04-05,India,South,Team C,Table,Furniture,Rahul,Corporate,9,1000,9000,0.02,2200
+1013,2023-04-10,USA,North,Team B,Laptop,Electronics,David,Corporate,6,2000,12000,0.04,3000
+1014,2023-05-01,UK,West,Team A,Mouse,Electronics,Alice,Consumer,70,100,7000,0.01,2000
+1015,2023-05-05,India,South,Team B,Chair,Furniture,Rahul,Corporate,22,500,11000,0.03,2800
+1016,2023-05-10,USA,North,Team C,Table,Furniture,David,Home Office,14,1000,14000,0.04,3500
+1017,2023-06-01,UK,West,Team B,Laptop,Electronics,Alice,Corporate,7,2000,14000,0.05,3500
+1018,2023-06-05,India,South,Team A,Mouse,Electronics,Rahul,Consumer,55,100,5500,0.01,1600
+1019,2023-06-10,USA,North,Team A,Chair,Furniture,John,Corporate,25,500,12500,0.02,3200
+1020,2023-06-15,USA,North,Team B,Table,Furniture,David,Home Office,11,1000,11000,0.03,2800
