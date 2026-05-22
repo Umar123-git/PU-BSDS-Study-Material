@@ -1,0 +1,11 @@
+*CN SYLLABUS:*
+
+* part 1 remaining slides starting from layers
+* part 2 slides (socket programming excluded)
+* part 3 slides (till slide 35)
+Firewall, DHCP, NAT Slides
+
+Common Ports You Should Know
+* What Happens When You Type a URL in Your Browser
+* Understanding P2P File Sharing
+* Understanding How Email Works
