@@ -1,0 +1,45 @@
+(✓) • Difference between Import, DirectQuery, and Live Connection?
+(✓) • Difference between Tableau and Power BI?
+(✓) • Write names of any 5 visuals and their characteristics.
+• How to get selected range or selected values from a slicer?
+(✓) • Gauge Visual?
+(✓) • Funnel Visual?
+(✓) • How to import data from a database using a native database query?
+(✓) • TAT?
+(✓) • Date difference related question.
+
+
+
+
+Here are the requirements for the dashboard:
+*Overview Page:*
+We need to create these visuals:
+1. *Funnel Chart*
+   * Sequence: Added Date → Date of Collection → Processed → Validated
+2. *Bar Chart (Stacked or Clustered – your choice)*
+   * Based on *Specimen* field (around 10 types in dataset)
+   * It should show how many specimens are in each state: Added Date, Date of Collection, Processed, and Validated
+3. *Another Bar Chart (same type as above)*
+   * From *Status* column, filter *SendToBilling*
+   * Show count of patients in each state: Added Date, Date of Collection, Processed, Validated
+4. *TAT (Turnaround Time)* should also be included in Overview
+*Other 4 Pages (Tabs):*
+(Added Date Analysis, Date of Collection Analysis, Processed Analysis, Validated Analysis)
+* All pages will have similar visuals, but analysis will be based on their respective field
+* Each page must include:
+         * Age Group visual
+         * Gender visual
+         * TAT (difference between Added Date and Validated Date)
+         * Pie chart of Age Group (from previous assignment)
+                   * With total count in center
+                   * With custom tooltip
+* You can also add more visuals to make the dashboard look better and more professional
+
+*Important Instructions:*
+
+* Do NOT create relationships between tables
+* If Power BI creates them automatically, remove them
+* Use *ALLSELECTED()* function since we are working without relationships
+* Import a *Scroller visual* from the internet and use it
+
+Overall, the dashboard should look clean, professional, and visually appealing.

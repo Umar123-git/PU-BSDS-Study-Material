@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Data Analysis Dashboard</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f9;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 600px;
+        }
+        h1 { color: #2c3e50; }
+        p { color: #7f8c8d; line-height: 1.6; }
+        .dashboard-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #0078d4;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        .dashboard-link:hover {
+            background-color: #005a9e;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Lab Information System Analysis</h1>
+        <p>This project analyzes laboratory specimen data using Power BI. 
+           It features a custom "No Relationship" model to visualize the flow of 
+           samples from collection to validation.</p>
+        
+        <a href="https://app.powerbi.com/reportEmbed?reportId=b9d193d8-e6aa-4a8e-9dea-e52bc8d8cdb1&autoAuth=true&ctid=b0eeb88f-a842-482d-a9c0-d374ec25ff27" target="_blank" class="dashboard-link">
+            View Live Dashboard
+        </a>
+    </div>
+
+</body>
+</html>
