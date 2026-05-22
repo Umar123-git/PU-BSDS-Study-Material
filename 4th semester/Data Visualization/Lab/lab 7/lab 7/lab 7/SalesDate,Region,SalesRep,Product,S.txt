@@ -1,0 +1,13 @@
+SalesDate,Region,SalesRep,Product,SalesAmount
+2023-01-01,North,John Doe,Product A,1000
+2023-01-01,South,Jane Smith,Product B,1500
+2023-01-01,East,Chris Johnson,Product C,1200
+2023-01-01,West,Emma White,Product A,1100
+2023-02-01,North,John Doe,Product B,1300
+2023-02-01,South,Jane Smith,Product C,1600
+2023-02-01,East,Chris Johnson,Product A,1400
+2023-02-01,West,Emma White,Product B,1550
+2023-03-01,North,John Doe,Product C,1700
+2023-03-01,South,Jane Smith,Product A,1800
+2023-03-01,East,Chris Johnson,Product B,1500
+2023-03-01,West,Emma White,Product C,1900
