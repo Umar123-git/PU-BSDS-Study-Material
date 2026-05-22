@@ -1,0 +1,23 @@
+*ALGO SYLLABUS:*
+
+(✓) 1. *Dynammic Programming - ch15*
+          (Knapsack Problem, Coin Change, Rod Cutting, Max subarray sum, Longest common subsequence, Chain Matrix Multiplication, Convex Polygon, Optimal BST)
+
+(✓) 2. Memoization (just overview) - fib
+
+3. *Greedy algorithms - ch16* 
+         (Knapsack, TSP, An activity selection problem, Greedy VS DP, Huffman Codes, No correctness check in greedy algo)
+
+4. *Elementary Graph Algorithms - ch22*
+        (22.1 Representations of graphs, 22.2 Breadth-first search, 22.3 Depth-first search, 22.4 and 22.5 also included)
+
+5. *NP-Completeness - ch34* (just overview)
+        (P type, NP type, NP complete type, Shortest vs. longest simple paths, Euler tour vs. hamiltonian cycle, CNF satisfiability vs. 3-CNF satisfiability, Reductions, A first NP-complete problem, Hamiltonian cycle VS TSP problem)
+
+6. *Approximation Algorithms - ch35* (just overview)
+
+7. ch 24 Single Source Shortest Path
+	(Dijkstra, Bellman Ford, Prim’s Algo)
+
+8. ch 25 All pairs shortest Paths
+	(just do intro)
