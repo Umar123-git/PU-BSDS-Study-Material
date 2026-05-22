@@ -1,0 +1,103 @@
+Packet Sniffing
+IP Spoofing
+Denial of Service
+
+
+Authentication: proving you are who you say you are
+cellular networks provides hardware identity via SIM card;
+no such hardware assist in traditional Internet
+
+Bruteforce Attack
+
+ ATM -> pin code (4 Digits)  10,000 (0000- 9999)
+ 
+ Suitcase: 000  
+ 
+ 
+Binary:    1 bit -> 2^1 = 2
+		   2 bit -> 2^2 = 4
+		   3 bit -> 2^3 = 8
+		   
+		   
+Decimal: 1 digit -> 10^1 = 10
+		 2 digit -> 10^2 = 100
+		 3 digit -> 10^3 = 1000
+
+
+Character:   1 character   -> 26^1
+			 2 character   -> 26^2
+			 3 character   -> 26^3
+			 
+Small upper both are inculded.
+			
+			 1 character   -> 52^1
+			 2 character   -> 52^2
+			 3 character   -> 52^3	
+
+
+Small upper both and numbers are inculded.
+			
+			 1 character   -> 62^1
+			 2 character   -> 62^2
+			 3 character   -> 62^3						
+			 
+Small upper both, Special Character and numbers are inculded.
+			
+			 1 character   -> 80^1
+			 2 character   -> 80^2
+			 3 character   -> 80^3		
+
+Small upper both, Special Character and numbers are inculded and lenght is 15.
+
+Lenght of Password: 10 length  80^10  1.0737418e+19    10^18			
+					15 length of password 80^15   combination   3.51 10^28
+
+
+					
+Strong Password Example: replace a with @, o with 0, s with $ etc.
+					F@cul!ty0fC0mput!ng@nd!nf0rm@tion!@#4$ E 3
+					
+Two factor Authentication:					
+			 
+Debit Card number, CVV , OTP
+	
+	
+Pishing attack:
+
+Social Engineering:
+
+Osint
+
+Mobile app premissions
+
+Keylogger: 	
+									
+									
+
+If you have access to a Machine: 
+
+Windows password:  its in Hashcode format.
+SAM	: Security Account Manager.	
+
+Linux shadow file
+
+Rainbow tables: 
+
+	Text 				| MD5 Hashcode
+	d@ta$c1ence				950a41d06e2a221f37e4d80a15757912
+
+MD5 Hash Breakdown:
+Input: d@ta$c1ence
+MD5 Hash: 950a41d06e2a221f37e4d80a15757912
+Format: 32-character hexadecimal string (128 bits) 
+
+
+
+Using RainbowTables
+
+https://freerainbowtables.com/
+
+long password and two factor authication can save you from this attack of rainbow tables.								
+									
+									
+Hiren boot, windows PE, etc kind of Bootable cds can be used to access the data from a PC without knowing password.									

@@ -1,0 +1,12 @@
+
+Confidentiality: via encryption
+
+http://  	Plain Text
+https:// secure		Cipher (Encrypted Text)
+
+
+
+Symetric Key Encryption   (Same key on both ends) -> AES, Blowfish, DES, 3DES
+Asymetric Key Encryption
+
+pakistan	+2		rcmkuvcp    -2    pakistan

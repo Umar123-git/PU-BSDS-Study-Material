@@ -1,0 +1,67 @@
+
+Default subnet Mask.
+A. 255.0.0.0
+B. 255.255.0.0
+C. 255.255.255.0
+
+200 Nodes	C IP range is enough (254)
+270 Nodes	B IP range required (65534)
+
+Classfull IP addressing main wastage bohaat zeada thi
+----------------
+
+CIDR, Classless Inter Domain Routing
+Variable Length Subnet Mask. VLSM
+
+
+192.168.10.12/26			number after / , present number of Network bits. 
+(Host bits=32- Nw bits)
+11111111.11111111.11111111.11000000    
+255.255.255.192		subnet Mask
+
+
+2^n -2 >=500 
+n=9
+2^9 = 512 -2  NW, Broadcast
+
+192.168.10.12/23    => 510 hosts
+
+
+
+
+
+PU 50,000 nodes
+privacy/ security
+Broadcast Domain. 
+Collision Domain.
+Troubleshooting
+ 
+Subnetting:
+
+192.168.0.0/24
+192.168.0.00000000 / 24
+
+192.168.0.00000000 / 25	Network -01
+192.168.0.10000000 / 25	Network -02
+
+Network - 01
+192.168.0.00000000 / 25		192.168.0.0/25 Network Adress
+192.168.0.00000001 / 25		192.168.0.1/25   1st Valid IP
+192.168.0.00000010 / 25		192.168.0.2/25
+192.168.0.00000011 / 25		192.168.0.3/25
+.
+.
+192.168.0.01111110 / 25		192.168.0.126/25  Last Valid IP
+192.168.0.01111111 / 25		192.168.0.127/25  Broadcast IP Adress
+
+Network - 02
+192.168.0.10000000 / 25		192.168.0.128/25 Network Adress
+192.168.0.10000001 / 25		192.168.0.129/25 1st Valid IP
+192.168.0.10000010 / 25		192.168.0.130/25
+.
+.
+192.168.0.11111110 / 25		192.168.0.254/25 Last Valid IP
+192.168.0.11111111 / 25		192.168.0.255/25 Broadcast IP Adress
+
+/25
+255.255.255.128      Subnet Mask in Decimal
