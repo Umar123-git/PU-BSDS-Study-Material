@@ -1,0 +1,6 @@
+CALENDAR() vs. CALENDARAUTO()
+
+
+CALENDAR() allows us to strictly bind the generated dates to our actual transactional sales period (January 1, 2022, to December 31, 2025).
+
+If we had used CALENDARAUTO(), the DAX engine would have scanned the entire data model for all date and datetime columns to find the absolute minimum and maximum dates. Because our dimension tables contain historical dates—such as DimStore[OpenDate] and DimSalesperson[HireDate] which go all the way back to 2017—CALENDARAUTO() would have generated a Date table starting from January 1, 2017.

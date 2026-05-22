@@ -1,0 +1,21 @@
+StoreKey,StoreName,StoreType,City,Region,Country,OpenDate,AreaSqFt,ManagerName,Cluster,Latitude,Longitude
+201,Miami Central,Retail Store,Miami,South,USA,2021-12-09,7500,Manager 1,Urban,38.8178,-114.7042
+202,Phoenix North,Retail Store,Phoenix,West,USA,2020-06-08,2500,Manager 2,Urban,28.0803,-116.1574
+203,Seattle South,Retail Store,Seattle,West,USA,2022-10-25,4000,Manager 3,Urban,30.4513,-89.302
+204,Atlanta Downtown,Retail Store,Atlanta,South,USA,2018-04-20,12000,Manager 4,Regional,44.2682,-111.9195
+205,Miami Metro,Retail Store,Miami,South,USA,2021-04-25,7500,Manager 5,Urban,42.2436,-81.6204
+206,Miami Central,Retail Store,Miami,South,USA,2022-04-30,2500,Manager 6,Urban,35.9908,-91.9126
+207,Minneapolis North,Retail Store,Minneapolis,North,USA,2021-07-20,3200,Manager 7,Suburban,43.9379,-93.2284
+208,Boston South,Retail Store,Boston,East,USA,2023-04-14,12000,Manager 8,Urban,25.3672,-119.0221
+209,Boston Downtown,Retail Store,Boston,East,USA,2018-06-13,2500,Manager 9,Suburban,36.1454,-90.1286
+210,Phoenix Metro,Retail Store,Phoenix,West,USA,2022-07-06,2500,Manager 10,Regional,36.8044,-90.7736
+211,New York Central,Retail Store,New York,East,USA,2021-06-23,2500,Manager 11,Regional,45.2603,-72.3229
+212,Atlanta North,Retail Store,Atlanta,South,USA,2022-05-20,5600,Manager 12,Regional,41.7909,-89.0333
+213,Minneapolis South,Retail Store,Minneapolis,North,USA,2022-11-27,7500,Manager 13,Urban,26.2739,-118.06
+214,Los Angeles Downtown,Retail Store,Los Angeles,West,USA,2023-02-01,5600,Manager 14,Regional,26.2106,-88.1969
+215,Dallas Metro,Fulfillment Hub,Dallas,South,USA,2018-02-21,28000,Manager 15,Urban,40.433,-114.0626
+216,Philadelphia Central,Fulfillment Hub,Philadelphia,East,USA,2019-11-15,22000,Manager 16,Urban,41.4951,-77.5168
+217,Chicago North,Fulfillment Hub,Chicago,North,USA,2021-10-04,22000,Manager 17,Suburban,36.5248,-108.9581
+218,Cleveland South,Wholesale Depot,Cleveland,North,USA,2023-02-08,28000,Manager 18,Suburban,26.2197,-78.243
+219,Atlanta Downtown,Wholesale Depot,Atlanta,South,USA,2019-10-07,22000,Manager 19,Urban,44.6739,-87.7828
+220,Detroit Metro,Marketplace Hub,Detroit,North,USA,2023-09-16,15000,Manager 20,Urban,43.8912,-121.8672

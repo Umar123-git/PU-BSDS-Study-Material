@@ -1,0 +1,183 @@
+ProductKey,SKU,ProductName,Category,Subcategory,Brand,Color,Size,UnitCost,BasePrice,LaunchDate,DiscontinuedFlag,PopularityScore
+1001,SKU-1001,Nova Laptop 1,Electronics,Laptop,Nova,Gray,XL,74.21,162.02,2022-03-24,0,1.09
+1002,SKU-1002,UrbanRoot Laptop 2,Electronics,Laptop,UrbanRoot,White,XS,419.11,824.79,2022-11-21,0,0.97
+1003,SKU-1003,Pulse Laptop 3,Electronics,Laptop,Pulse,Gray,Std,699.84,1134.26,2023-01-11,1,1.15
+1004,SKU-1004,Vertex Laptop 4,Electronics,Laptop,Vertex,White,XL,1120.04,1775.17,2024-10-31,0,1.07
+1005,SKU-1005,Orchid Laptop 5,Electronics,Laptop,Orchid,Green,L,201.93,394.52,2021-03-07,0,0.88
+1006,SKU-1006,Solstice Laptop 6,Electronics,Laptop,Solstice,Silver,XL,957.88,1592.3,2022-06-23,0,0.88
+1007,SKU-1007,Zenith Laptop 7,Electronics,Laptop,Zenith,Red,XL,539.77,976.0,2023-08-17,0,0.76
+1008,SKU-1008,Nova Tablet 1,Electronics,Tablet,Nova,Blue,XL,868.59,1265.27,2022-06-24,0,1.27
+1009,SKU-1009,Vertex Tablet 2,Electronics,Tablet,Vertex,Black,XS,938.37,1534.0,2023-09-28,0,1.28
+1010,SKU-1010,Vertex Tablet 3,Electronics,Tablet,Vertex,Beige,XL,252.76,522.28,2024-09-13,0,1.07
+1011,SKU-1011,Solstice Tablet 4,Electronics,Tablet,Solstice,Beige,XS,472.17,830.87,2023-11-26,0,0.79
+1012,SKU-1012,Aster Tablet 5,Electronics,Tablet,Aster,Red,Std,519.97,1108.36,2022-05-03,0,1.07
+1013,SKU-1013,Solstice Tablet 6,Electronics,Tablet,Solstice,White,XS,743.38,1088.04,2021-04-21,0,0.95
+1014,SKU-1014,Nova Tablet 7,Electronics,Tablet,Nova,White,XS,367.04,537.74,2024-02-02,0,1.07
+1015,SKU-1015,Aster Phone 1,Electronics,Phone,Aster,Red,NA,965.41,1747.91,2023-03-11,0,0.92
+1016,SKU-1016,UrbanRoot Phone 2,Electronics,Phone,UrbanRoot,Blue,XS,571.05,1231.94,2023-09-04,0,0.8
+1017,SKU-1017,Zenith Phone 3,Electronics,Phone,Zenith,Green,M,111.01,235.12,2024-09-08,0,1.18
+1018,SKU-1018,Orchid Phone 4,Electronics,Phone,Orchid,White,XL,340.88,566.23,2021-07-24,0,0.91
+1019,SKU-1019,Pulse Phone 5,Electronics,Phone,Pulse,Red,Std,1002.42,1599.85,2021-01-17,0,1.28
+1020,SKU-1020,Vertex Phone 6,Electronics,Phone,Vertex,Red,NA,163.64,313.92,2023-09-28,1,1.13
+1021,SKU-1021,Vertex Phone 7,Electronics,Phone,Vertex,Black,NA,93.19,194.07,2021-11-02,0,1.08
+1022,SKU-1022,Nimbus Audio 1,Electronics,Audio,Nimbus,Silver,XL,159.62,334.11,2024-02-21,0,1.31
+1023,SKU-1023,Orchid Audio 2,Electronics,Audio,Orchid,Red,S,1048.26,1572.54,2022-05-24,0,0.81
+1024,SKU-1024,Aster Audio 3,Electronics,Audio,Aster,Red,NA,784.57,1562.44,2022-11-04,1,1.21
+1025,SKU-1025,Pulse Audio 4,Electronics,Audio,Pulse,Black,XS,850.22,1197.69,2022-06-28,0,0.96
+1026,SKU-1026,Pulse Audio 5,Electronics,Audio,Pulse,Gray,M,569.69,853.14,2024-10-05,0,1.32
+1027,SKU-1027,Pulse Audio 6,Electronics,Audio,Pulse,Silver,Std,699.78,1166.9,2022-01-28,0,1.16
+1028,SKU-1028,Zenith Audio 7,Electronics,Audio,Zenith,Gray,XL,664.22,1154.07,2023-06-25,0,1.29
+1029,SKU-1029,Zenith Kitchen 1,Home Appliances,Kitchen,Zenith,Black,XS,189.77,284.19,2021-10-29,0,1.04
+1030,SKU-1030,Nova Kitchen 2,Home Appliances,Kitchen,Nova,Silver,S,525.21,760.05,2021-08-07,0,1.32
+1031,SKU-1031,UrbanRoot Kitchen 3,Home Appliances,Kitchen,UrbanRoot,Silver,NA,268.02,500.35,2023-06-26,0,1.02
+1032,SKU-1032,Zenith Kitchen 4,Home Appliances,Kitchen,Zenith,Red,S,228.0,434.99,2021-06-08,0,0.94
+1033,SKU-1033,UrbanRoot Kitchen 5,Home Appliances,Kitchen,UrbanRoot,Silver,NA,83.63,179.16,2023-05-11,0,1.17
+1034,SKU-1034,Solstice Kitchen 6,Home Appliances,Kitchen,Solstice,Gray,L,38.63,64.66,2024-05-20,0,1.01
+1035,SKU-1035,Aster Kitchen 7,Home Appliances,Kitchen,Aster,Black,XS,408.87,588.41,2024-04-27,0,0.83
+1036,SKU-1036,Everleaf Cleaning 1,Home Appliances,Cleaning,Everleaf,Beige,XS,149.71,265.52,2021-06-17,0,0.78
+1037,SKU-1037,Pulse Cleaning 2,Home Appliances,Cleaning,Pulse,White,XL,58.75,114.21,2023-08-28,0,1.03
+1038,SKU-1038,Vertex Cleaning 3,Home Appliances,Cleaning,Vertex,Silver,L,87.98,192.55,2022-10-01,0,0.87
+1039,SKU-1039,Solstice Cleaning 4,Home Appliances,Cleaning,Solstice,Silver,Std,367.37,555.52,2022-12-13,0,1.05
+1040,SKU-1040,Pulse Cleaning 5,Home Appliances,Cleaning,Pulse,Red,XL,194.97,391.85,2023-12-05,0,1.07
+1041,SKU-1041,Everleaf Cleaning 6,Home Appliances,Cleaning,Everleaf,Silver,M,464.89,712.33,2024-03-13,1,1.26
+1042,SKU-1042,Zenith Cleaning 7,Home Appliances,Cleaning,Zenith,Silver,L,170.7,340.31,2022-05-10,0,0.89
+1043,SKU-1043,Everleaf Cooling 1,Home Appliances,Cooling,Everleaf,Green,L,258.7,447.75,2023-12-24,0,1.08
+1044,SKU-1044,Pulse Cooling 2,Home Appliances,Cooling,Pulse,Beige,M,137.01,274.02,2022-03-20,0,1.34
+1045,SKU-1045,UrbanRoot Cooling 3,Home Appliances,Cooling,UrbanRoot,Red,Std,385.83,834.6,2021-04-22,0,1.13
+1046,SKU-1046,Everleaf Cooling 4,Home Appliances,Cooling,Everleaf,Silver,L,33.51,69.69,2021-05-14,1,1.13
+1047,SKU-1047,Aster Cooling 5,Home Appliances,Cooling,Aster,Silver,L,432.38,700.8,2023-12-07,0,0.93
+1048,SKU-1048,Solstice Cooling 6,Home Appliances,Cooling,Solstice,Gray,S,189.28,301.25,2021-11-18,0,0.84
+1049,SKU-1049,Nimbus Cooling 7,Home Appliances,Cooling,Nimbus,Gray,L,370.09,529.11,2024-07-04,0,0.88
+1050,SKU-1050,Zenith Laundry 1,Home Appliances,Laundry,Zenith,Silver,M,344.81,713.04,2022-09-15,0,1.05
+1051,SKU-1051,Nova Laundry 2,Home Appliances,Laundry,Nova,Red,XL,464.09,762.64,2021-02-12,1,1.2
+1052,SKU-1052,Everleaf Laundry 3,Home Appliances,Laundry,Everleaf,White,NA,229.35,409.36,2022-10-20,0,1.0
+1053,SKU-1053,Everleaf Laundry 4,Home Appliances,Laundry,Everleaf,Black,Std,451.05,806.7,2023-11-20,0,1.03
+1054,SKU-1054,Aster Laundry 5,Home Appliances,Laundry,Aster,White,XS,196.52,345.81,2023-09-20,0,1.12
+1055,SKU-1055,Orchid Laundry 6,Home Appliances,Laundry,Orchid,Beige,Std,190.9,305.49,2021-11-12,0,1.17
+1056,SKU-1056,Nimbus Laundry 7,Home Appliances,Laundry,Nimbus,Silver,M,570.13,834.39,2022-07-20,0,1.05
+1057,SKU-1057,Aster Office Furniture 1,Furniture,Office Furniture,Aster,Silver,L,444.17,741.5,2024-01-18,0,1.27
+1058,SKU-1058,Orchid Office Furniture 2,Furniture,Office Furniture,Orchid,Blue,L,598.27,950.85,2024-08-28,0,0.83
+1059,SKU-1059,Solstice Office Furniture 3,Furniture,Office Furniture,Solstice,Beige,NA,731.82,1027.99,2021-06-03,0,0.95
+1060,SKU-1060,Nimbus Office Furniture 4,Furniture,Office Furniture,Nimbus,White,S,710.29,1036.1,2021-03-15,0,1.3
+1061,SKU-1061,Orchid Office Furniture 5,Furniture,Office Furniture,Orchid,Red,M,92.15,199.27,2021-04-25,0,0.84
+1062,SKU-1062,UrbanRoot Office Furniture 6,Furniture,Office Furniture,UrbanRoot,Beige,Std,176.08,289.86,2022-04-21,0,0.9
+1063,SKU-1063,Aster Office Furniture 7,Furniture,Office Furniture,Aster,Beige,NA,290.48,409.27,2022-05-28,0,1.35
+1064,SKU-1064,Everleaf Living Room 1,Furniture,Living Room,Everleaf,Beige,NA,220.87,488.44,2021-04-11,0,0.92
+1065,SKU-1065,Orchid Living Room 2,Furniture,Living Room,Orchid,Black,M,493.62,796.65,2024-07-09,0,0.77
+1066,SKU-1066,Pulse Living Room 3,Furniture,Living Room,Pulse,Blue,M,247.76,417.57,2022-07-13,0,1.32
+1067,SKU-1067,Vertex Living Room 4,Furniture,Living Room,Vertex,Green,XS,155.66,217.84,2024-02-16,0,0.76
+1068,SKU-1068,UrbanRoot Living Room 5,Furniture,Living Room,UrbanRoot,Green,XL,531.92,921.4,2024-06-22,0,0.79
+1069,SKU-1069,Everleaf Living Room 6,Furniture,Living Room,Everleaf,Silver,L,374.57,543.21,2021-10-05,0,1.32
+1070,SKU-1070,UrbanRoot Living Room 7,Furniture,Living Room,UrbanRoot,Gray,L,119.99,261.52,2023-01-29,0,0.89
+1071,SKU-1071,Pulse Bedroom 1,Furniture,Bedroom,Pulse,White,Std,471.45,694.36,2023-07-21,0,1.13
+1072,SKU-1072,Aster Bedroom 2,Furniture,Bedroom,Aster,Green,NA,795.12,1187.59,2022-04-23,0,1.29
+1073,SKU-1073,Aster Bedroom 3,Furniture,Bedroom,Aster,Green,XS,648.5,1186.16,2022-05-03,0,0.78
+1074,SKU-1074,Nimbus Bedroom 4,Furniture,Bedroom,Nimbus,Red,L,285.63,618.63,2024-09-11,0,0.77
+1075,SKU-1075,Everleaf Bedroom 5,Furniture,Bedroom,Everleaf,Green,L,101.58,209.84,2024-07-02,0,1.07
+1076,SKU-1076,Everleaf Bedroom 6,Furniture,Bedroom,Everleaf,Silver,M,549.33,970.34,2022-04-13,0,0.99
+1077,SKU-1077,Nova Bedroom 7,Furniture,Bedroom,Nova,Blue,XL,211.3,372.93,2023-02-03,1,1.32
+1078,SKU-1078,UrbanRoot Men Apparel 1,Fashion,Men Apparel,UrbanRoot,White,XL,76.99,125.79,2022-12-22,0,0.84
+1079,SKU-1079,Everleaf Men Apparel 2,Fashion,Men Apparel,Everleaf,Black,XL,55.3,77.54,2024-06-27,0,1.25
+1080,SKU-1080,Vertex Men Apparel 3,Fashion,Men Apparel,Vertex,Black,XS,78.42,167.29,2024-07-20,0,0.88
+1081,SKU-1081,Nimbus Men Apparel 4,Fashion,Men Apparel,Nimbus,White,M,46.12,70.55,2021-04-12,0,1.0
+1082,SKU-1082,Solstice Men Apparel 5,Fashion,Men Apparel,Solstice,Gray,L,22.96,36.44,2021-04-04,0,0.78
+1083,SKU-1083,Orchid Men Apparel 6,Fashion,Men Apparel,Orchid,Green,XS,32.82,59.39,2022-04-17,0,1.2
+1084,SKU-1084,Nimbus Men Apparel 7,Fashion,Men Apparel,Nimbus,Blue,NA,50.7,111.27,2022-10-28,0,1.03
+1085,SKU-1085,Pulse Women Apparel 1,Fashion,Women Apparel,Pulse,White,XL,61.23,113.4,2021-12-11,0,1.07
+1086,SKU-1086,Orchid Women Apparel 2,Fashion,Women Apparel,Orchid,White,S,92.31,150.67,2024-09-04,0,1.13
+1087,SKU-1087,Everleaf Women Apparel 3,Fashion,Women Apparel,Everleaf,Beige,XS,103.87,167.71,2021-11-06,0,1.13
+1088,SKU-1088,Vertex Women Apparel 4,Fashion,Women Apparel,Vertex,Silver,L,66.25,92.8,2021-07-04,0,1.32
+1089,SKU-1089,Aster Women Apparel 5,Fashion,Women Apparel,Aster,White,XL,48.55,70.09,2022-12-05,0,0.77
+1090,SKU-1090,Everleaf Women Apparel 6,Fashion,Women Apparel,Everleaf,Green,XS,35.72,76.95,2024-07-16,0,1.08
+1091,SKU-1091,Nimbus Women Apparel 7,Fashion,Women Apparel,Nimbus,Silver,S,89.74,164.83,2024-09-05,0,1.31
+1092,SKU-1092,Vertex Footwear 1,Fashion,Footwear,Vertex,Silver,XL,18.39,38.7,2024-10-05,0,0.97
+1093,SKU-1093,Zenith Footwear 2,Fashion,Footwear,Zenith,Black,Std,28.83,49.1,2024-01-11,0,1.21
+1094,SKU-1094,Zenith Footwear 3,Fashion,Footwear,Zenith,Beige,XL,71.42,130.24,2022-05-02,0,1.2
+1095,SKU-1095,Everleaf Footwear 4,Fashion,Footwear,Everleaf,Silver,XL,82.54,145.07,2022-08-01,0,1.33
+1096,SKU-1096,Orchid Footwear 5,Fashion,Footwear,Orchid,White,NA,82.85,121.87,2022-08-07,0,1.02
+1097,SKU-1097,UrbanRoot Footwear 6,Fashion,Footwear,UrbanRoot,Silver,XS,31.6,53.97,2022-04-28,0,0.77
+1098,SKU-1098,Nova Footwear 7,Fashion,Footwear,Nova,Black,XS,25.81,40.29,2023-07-08,1,0.88
+1099,SKU-1099,Zenith Beverages 1,Grocery,Beverages,Zenith,White,XS,10.5,15.81,2023-07-26,0,1.05
+1100,SKU-1100,UrbanRoot Beverages 2,Grocery,Beverages,UrbanRoot,Green,XS,13.59,21.6,2021-06-25,0,1.08
+1101,SKU-1101,UrbanRoot Beverages 3,Grocery,Beverages,UrbanRoot,White,NA,24.02,44.22,2024-09-07,0,1.2
+1102,SKU-1102,Zenith Beverages 4,Grocery,Beverages,Zenith,Beige,XS,24.05,35.94,2021-05-10,0,0.78
+1103,SKU-1103,Orchid Beverages 5,Grocery,Beverages,Orchid,Green,M,19.74,37.43,2021-04-08,0,0.97
+1104,SKU-1104,Nimbus Beverages 6,Grocery,Beverages,Nimbus,White,L,16.22,24.34,2023-05-20,0,1.24
+1105,SKU-1105,UrbanRoot Beverages 7,Grocery,Beverages,UrbanRoot,Silver,M,12.72,22.28,2022-12-24,0,1.22
+1106,SKU-1106,Aster Snacks 1,Grocery,Snacks,Aster,Blue,XS,21.06,31.86,2021-03-13,0,1.14
+1107,SKU-1107,Pulse Snacks 2,Grocery,Snacks,Pulse,Green,Std,25.44,42.9,2023-03-27,0,1.33
+1108,SKU-1108,Aster Snacks 3,Grocery,Snacks,Aster,Gray,XS,7.77,14.73,2023-10-03,0,0.79
+1109,SKU-1109,Zenith Snacks 4,Grocery,Snacks,Zenith,Blue,Std,23.06,38.67,2022-09-07,0,1.17
+1110,SKU-1110,Zenith Snacks 5,Grocery,Snacks,Zenith,Blue,XL,5.33,9.69,2024-02-04,0,0.79
+1111,SKU-1111,Nimbus Snacks 6,Grocery,Snacks,Nimbus,Green,S,21.58,37.76,2024-10-24,0,1.22
+1112,SKU-1112,Solstice Snacks 7,Grocery,Snacks,Solstice,Green,XL,3.37,6.27,2022-04-07,0,1.26
+1113,SKU-1113,Vertex Staples 1,Grocery,Staples,Vertex,Green,NA,17.71,29.19,2021-12-17,0,0.77
+1114,SKU-1114,Aster Staples 2,Grocery,Staples,Aster,Red,Std,8.72,12.64,2024-01-23,0,1.04
+1115,SKU-1115,Nimbus Staples 3,Grocery,Staples,Nimbus,Silver,S,15.36,23.85,2022-12-09,0,1.06
+1116,SKU-1116,Nova Staples 4,Grocery,Staples,Nova,Green,XL,4.12,7.97,2021-11-24,0,0.86
+1117,SKU-1117,Zenith Staples 5,Grocery,Staples,Zenith,Black,XS,2.52,4.95,2022-12-24,0,1.11
+1118,SKU-1118,Everleaf Staples 6,Grocery,Staples,Everleaf,Gray,M,6.88,14.84,2024-02-25,0,0.79
+1119,SKU-1119,UrbanRoot Staples 7,Grocery,Staples,UrbanRoot,Green,NA,20.81,29.05,2024-02-17,0,1.11
+1120,SKU-1120,Nimbus Fitness 1,Sports,Fitness,Nimbus,Green,S,83.14,154.38,2024-06-09,0,1.12
+1121,SKU-1121,Vertex Fitness 2,Sports,Fitness,Vertex,Red,NA,76.66,159.84,2023-05-04,0,1.27
+1122,SKU-1122,Aster Fitness 3,Sports,Fitness,Aster,Silver,S,49.93,84.4,2024-06-23,0,0.9
+1123,SKU-1123,Solstice Fitness 4,Sports,Fitness,Solstice,Blue,XL,157.59,225.6,2021-05-08,0,0.95
+1124,SKU-1124,Everleaf Fitness 5,Sports,Fitness,Everleaf,Beige,S,76.75,123.06,2022-06-26,0,0.92
+1125,SKU-1125,Vertex Fitness 6,Sports,Fitness,Vertex,Red,XS,161.5,230.02,2022-07-15,0,1.08
+1126,SKU-1126,Nimbus Fitness 7,Sports,Fitness,Nimbus,Gray,S,120.89,232.81,2023-09-09,0,0.91
+1127,SKU-1127,UrbanRoot Outdoor 1,Sports,Outdoor,UrbanRoot,Green,Std,101.79,219.3,2023-04-27,0,1.16
+1128,SKU-1128,Zenith Outdoor 2,Sports,Outdoor,Zenith,Red,Std,200.94,282.91,2022-10-20,1,1.21
+1129,SKU-1129,Solstice Outdoor 3,Sports,Outdoor,Solstice,Beige,S,65.5,142.45,2023-03-25,0,1.33
+1130,SKU-1130,Vertex Outdoor 4,Sports,Outdoor,Vertex,Beige,M,59.38,101.79,2021-10-02,0,0.82
+1131,SKU-1131,Zenith Outdoor 5,Sports,Outdoor,Zenith,Silver,NA,64.56,104.98,2024-08-01,0,0.95
+1132,SKU-1132,Nimbus Outdoor 6,Sports,Outdoor,Nimbus,Black,M,66.9,94.54,2022-09-11,0,1.17
+1133,SKU-1133,Aster Outdoor 7,Sports,Outdoor,Aster,Green,XL,177.88,285.78,2022-08-28,0,1.32
+1134,SKU-1134,Everleaf Athleisure 1,Sports,Athleisure,Everleaf,White,XL,80.72,158.6,2022-05-22,0,1.17
+1135,SKU-1135,Nova Athleisure 2,Sports,Athleisure,Nova,Gray,Std,101.72,178.68,2024-10-25,0,0.8
+1136,SKU-1136,UrbanRoot Athleisure 3,Sports,Athleisure,UrbanRoot,Black,Std,84.53,185.43,2022-06-06,0,0.79
+1137,SKU-1137,Nimbus Athleisure 4,Sports,Athleisure,Nimbus,Silver,M,197.16,299.8,2024-08-06,0,0.98
+1138,SKU-1138,Nimbus Athleisure 5,Sports,Athleisure,Nimbus,Black,NA,71.77,121.07,2022-04-02,1,0.93
+1139,SKU-1139,UrbanRoot Athleisure 6,Sports,Athleisure,UrbanRoot,Silver,XL,33.25,72.49,2024-09-14,0,1.28
+1140,SKU-1140,Aster Athleisure 7,Sports,Athleisure,Aster,Gray,NA,159.77,281.02,2024-01-11,0,0.78
+1141,SKU-1141,UrbanRoot Skincare 1,Beauty,Skincare,UrbanRoot,Gray,L,51.57,75.11,2024-09-14,0,0.79
+1142,SKU-1142,Solstice Skincare 2,Beauty,Skincare,Solstice,Silver,L,56.42,85.21,2022-10-15,0,0.98
+1143,SKU-1143,UrbanRoot Skincare 3,Beauty,Skincare,UrbanRoot,Silver,S,32.49,54.12,2021-10-02,0,0.95
+1144,SKU-1144,Nova Skincare 4,Beauty,Skincare,Nova,Gray,L,43.38,63.24,2022-01-21,0,1.29
+1145,SKU-1145,Vertex Skincare 5,Beauty,Skincare,Vertex,Silver,S,28.99,47.27,2022-02-23,0,1.22
+1146,SKU-1146,Nimbus Skincare 6,Beauty,Skincare,Nimbus,Gray,M,48.41,73.83,2022-10-18,0,0.78
+1147,SKU-1147,Orchid Skincare 7,Beauty,Skincare,Orchid,Beige,XL,14.55,24.09,2022-05-19,0,1.16
+1148,SKU-1148,Vertex Makeup 1,Beauty,Makeup,Vertex,Black,XL,22.04,36.88,2022-01-12,1,1.26
+1149,SKU-1149,Aster Makeup 2,Beauty,Makeup,Aster,Beige,Std,30.51,49.47,2024-09-27,0,0.75
+1150,SKU-1150,UrbanRoot Makeup 3,Beauty,Makeup,UrbanRoot,White,XS,45.9,65.22,2022-01-03,0,0.89
+1151,SKU-1151,Solstice Makeup 4,Beauty,Makeup,Solstice,White,Std,27.76,54.33,2024-11-01,0,1.14
+1152,SKU-1152,Aster Makeup 5,Beauty,Makeup,Aster,White,XL,32.42,48.99,2024-03-04,0,0.89
+1153,SKU-1153,Solstice Makeup 6,Beauty,Makeup,Solstice,Blue,NA,5.72,10.7,2022-03-01,0,1.24
+1154,SKU-1154,Nova Makeup 7,Beauty,Makeup,Nova,Green,XS,26.19,39.48,2021-06-10,0,0.89
+1155,SKU-1155,Nova Personal Care 1,Beauty,Personal Care,Nova,Silver,L,17.71,30.41,2022-12-30,0,1.1
+1156,SKU-1156,Nimbus Personal Care 2,Beauty,Personal Care,Nimbus,Green,XS,43.11,66.36,2022-10-11,0,1.32
+1157,SKU-1157,Everleaf Personal Care 3,Beauty,Personal Care,Everleaf,Green,NA,22.62,41.46,2021-07-10,0,0.93
+1158,SKU-1158,Nimbus Personal Care 4,Beauty,Personal Care,Nimbus,Beige,S,33.55,64.2,2022-07-04,1,1.01
+1159,SKU-1159,Nimbus Personal Care 5,Beauty,Personal Care,Nimbus,Silver,M,28.5,58.57,2021-01-14,0,0.98
+1160,SKU-1160,Pulse Personal Care 6,Beauty,Personal Care,Pulse,Silver,M,33.29,57.46,2021-12-30,0,1.17
+1161,SKU-1161,Everleaf Personal Care 7,Beauty,Personal Care,Everleaf,Black,Std,60.73,84.43,2022-01-04,0,1.18
+1162,SKU-1162,Everleaf Paper 1,Office Supplies,Paper,Everleaf,Silver,NA,12.85,24.8,2021-11-12,0,1.02
+1163,SKU-1163,Solstice Paper 2,Office Supplies,Paper,Solstice,White,XS,19.98,28.89,2024-01-05,0,1.14
+1164,SKU-1164,Pulse Paper 3,Office Supplies,Paper,Pulse,Red,S,28.87,60.33,2021-07-21,0,1.06
+1165,SKU-1165,Solstice Paper 4,Office Supplies,Paper,Solstice,Silver,XS,43.43,74.83,2022-08-29,0,1.31
+1166,SKU-1166,Zenith Paper 5,Office Supplies,Paper,Zenith,White,XS,16.65,35.58,2021-04-02,0,1.14
+1167,SKU-1167,Zenith Paper 6,Office Supplies,Paper,Zenith,Silver,L,37.47,60.44,2022-01-17,1,1.12
+1168,SKU-1168,Orchid Paper 7,Office Supplies,Paper,Orchid,Blue,M,29.68,44.57,2024-01-05,0,1.02
+1169,SKU-1169,Vertex Writing 1,Office Supplies,Writing,Vertex,Red,XL,16.26,28.34,2021-12-20,0,1.15
+1170,SKU-1170,Pulse Writing 2,Office Supplies,Writing,Pulse,Blue,XL,15.32,30.63,2024-07-25,0,0.92
+1171,SKU-1171,Zenith Writing 3,Office Supplies,Writing,Zenith,Silver,Std,42.46,72.4,2023-10-11,0,1.18
+1172,SKU-1172,Everleaf Writing 4,Office Supplies,Writing,Everleaf,White,XL,8.67,15.11,2023-10-12,0,1.22
+1173,SKU-1173,Pulse Writing 5,Office Supplies,Writing,Pulse,Beige,M,25.87,50.06,2021-03-08,0,1.24
+1174,SKU-1174,Everleaf Writing 6,Office Supplies,Writing,Everleaf,Blue,NA,26.55,46.94,2024-06-15,0,0.87
+1175,SKU-1175,Aster Writing 7,Office Supplies,Writing,Aster,White,S,42.15,71.57,2024-10-23,0,1.22
+1176,SKU-1176,Aster Storage 1,Office Supplies,Storage,Aster,Blue,XL,36.58,57.83,2023-09-30,0,1.13
+1177,SKU-1177,Nimbus Storage 2,Office Supplies,Storage,Nimbus,Black,NA,20.9,29.57,2022-11-02,0,1.19
+1178,SKU-1178,Everleaf Storage 3,Office Supplies,Storage,Everleaf,Green,XL,20.75,38.62,2022-08-04,0,1.09
+1179,SKU-1179,Everleaf Storage 4,Office Supplies,Storage,Everleaf,Black,L,34.45,69.92,2023-07-24,0,1.16
+1180,SKU-1180,Zenith Storage 5,Office Supplies,Storage,Zenith,Silver,Std,31.79,50.84,2021-04-17,0,1.17
+1181,SKU-1181,Orchid Storage 6,Office Supplies,Storage,Orchid,White,NA,15.85,35.04,2022-12-05,0,0.83
+1182,SKU-1182,Nova Storage 7,Office Supplies,Storage,Nova,Blue,XS,42.24,61.56,2024-08-06,0,0.76

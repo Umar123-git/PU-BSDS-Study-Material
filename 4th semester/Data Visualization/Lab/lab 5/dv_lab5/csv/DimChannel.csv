@@ -1,0 +1,5 @@
+ChannelKey,ChannelName,ChannelGroup,FulfillmentModel
+1,Retail,Offline,In-store
+2,Online,Digital,Ship-from-hub
+3,Wholesale,B2B,Bulk dispatch
+4,Marketplace,Digital,Partner fulfilled
