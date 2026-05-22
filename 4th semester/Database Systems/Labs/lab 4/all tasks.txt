@@ -1,0 +1,84 @@
+1. select ENAME, DNAME
+FROM EMP as e
+LEFT JOIN DEPT as d
+ON e.DEPTNO=d.DEPTNO
+
+2.  SELECT ENAME, DNAME
+from EMP as e, DEPT as d
+
+rows = 56
+
+
+3. SELECT e.ENAME, e.SAL, round(e.sal*12,-1) as "annual salary"
+from EMP e
+
+
+4. SELECT lower(ENAME)
+FROM EMP
+
+
+
+5.  select e.ENAME,d.DNAME
+FROM EMP as e, DEPT as d
+where d.LOC="NEW YORK"
+
+
+
+6.  SELECT e.ENAME,s.GRADE
+FROM EMP as e,SALGRADE as s
+WHERE SAL BETWEEN LOSAL AND HISAL
+
+
+7.   SELECT ENAME,DECODE(SAL,
+SAL>3000,'HIGH',
+SAL<=3000,'NORMAL',
+'UNKNOWN') as "Status"
+
+
+
+8.  SELECT ENAME,DECODE(COMM,
+NULL,'0') as "commission"
+
+
+
+9.   SELECT e.ENAME,e.JOB, d.DNAME
+FROM EMP as e, DEPT as d
+WHERE e.JOB="CLERK"
+AND d.DEPTNO=10
+
+
+10. SELECT DISTINCT(DNAME)
+FROM DEPT
+
+
+
+11. SELECT ENAME,MGR
+FROM EMP
+WHERE MGR NOT NULL 
+
+
+
+
+12.   SELECT e.ENAME,s.GRADE
+FROM EMP as e, SALGRADE as s
+WHERE e.DEPTNO=20
+
+
+
+13.   SELECT E.ENAME,D.DNAME
+from EMP E, DEPT D
+
+
+
+
+14.  SELECT ENAME, trunc(SAL)
+FROM EMP
+
+
+
+
+15.   SELECT e.ENAME, d.DNAME
+FROM EMP e, DEPT d
+WHERE sal>2500
+AND LOC="DALLAS"
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="all tasks.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="902"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="BONUS" custom_title="0" dock_id="1" table="4,5:mainBONUS"/><dock_state state="000000ff00000000fd000000010000000200000330000001fcfc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000003300000011800ffffff000002580000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="BONUS" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="48"/><column index="2" value="30"/><column index="3" value="29"/><column index="4" value="44"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">SELECT*
+FROM EMP,DEPT,SALGRADE
+
+select ENAME, DNAME
+FROM EMP as e
+LEFT JOIN DEPT as d
+ON e.DEPTNO=d.DEPTNO
+
+
+SELECT ENAME, DNAME
+from EMP as e, DEPT as d
+
+
+SELECT e.ENAME, e.SAL, round(e.sal*12,-1) as &quot;annual salary&quot;
+from EMP e
+
+
+
+SELECT lower(ENAME)
+FROM EMP
+
+
+select e.ENAME,d.DNAME
+FROM EMP as e, DEPT as d
+where d.LOC=&quot;NEW YORK&quot;
+
+
+SELECT e.ENAME,s.GRADE
+FROM EMP as e,SALGRADE as s
+WHERE SAL BETWEEN LOSAL AND HISAL
+
+
+
+
+
+SELECT ENAME,DECODE(SAL,
+SAL&gt;3000,'HIGH',
+SAL&lt;=3000,'NORMAL',
+'UNKNOWN') as &quot;Status&quot;
+
+
+
+
+SELECT ENAME,DECODE(COMM,
+NULL,'0') as &quot;commission&quot;
+
+
+SELECT e.ENAME,e.JOB, d.DNAME
+FROM EMP as e, DEPT as d
+WHERE e.JOB=&quot;CLERK&quot;
+AND d.DEPTNO=10
+
+
+
+
+
+
+SELECT DISTINCT(DNAME)
+FROM DEPT
+
+
+
+
+SELECT ENAME,MGR
+FROM EMP
+WHERE MGR NOT NULL 
+
+
+
+
+SELECT e.ENAME,s.GRADE
+FROM EMP as e, SALGRADE as s
+WHERE e.DEPTNO=20
+
+
+
+
+
+SELECT E.ENAME,D.DNAME
+from EMP E, DEPT D
+
+
+
+
+
+
+SELECT ENAME, trunc(SAL)
+FROM EMP
+
+
+
+
+
+
+
+
+SELECT e.ENAME, d.DNAME
+FROM EMP e, DEPT d
+WHERE sal&gt;2500
+AND LOC=&quot;DALLAS&quot;</sql><current_tab id="0"/></tab_sql></sqlb_project>
